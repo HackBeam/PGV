@@ -1,0 +1,424 @@
+﻿Log file open, 12/28/16 13:06:06
+LogInit:Display: Running engine for game: TheLastShelter
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1450402796) SRandInit(-1450402789).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.102666
+LogPluginManager: Loaded Plugin Paper2D, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3224400
+LogInit: Engine Version: 4.14.1-3224400+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Dec  7 2016 02:14:32
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: L:/Unreal Engine 4/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.12.28-12.06.07:388][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.28-12.06.07:388][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.12.28-12.06.07:434][  0]LogInit: Computer: NEN-PC
+[2016.12.28-12.06.07:434][  0]LogInit: User: NeN
+[2016.12.28-12.06.07:434][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.12.28-12.06.07:434][  0]LogInit: High frequency timer resolution =14.318180 MHz
+[2016.12.28-12.06.07:434][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2016.12.28-12.06.07:434][  0]LogMemory: Platform Memory Stats for Windows
+[2016.12.28-12.06.07:434][  0]LogMemory: Process Physical Memory: 263.79 MB used, 263.79 MB peak
+[2016.12.28-12.06.07:434][  0]LogMemory: Process Virtual Memory: 262.49 MB used, 262.49 MB peak
+[2016.12.28-12.06.07:434][  0]LogMemory: Physical Memory: 4395.84 MB used,  3757.38 MB free, 8153.22 MB total
+[2016.12.28-12.06.07:434][  0]LogMemory: Virtual Memory: 675.63 MB used,  3757.38 MB free, 134217728.00 MB total
+[2016.12.28-12.06.07:503][  0]LogInit: Overriding culture en with editor configuration.
+[2016.12.28-12.06.09:022][  0]LogD3D11RHI: D3D11 adapters:
+[2016.12.28-12.06.09:054][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2016.12.28-12.06.09:054][  0]LogD3D11RHI:       4073/0/4076 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2016.12.28-12.06.09:056][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.12.28-12.06.09:056][  0]LogD3D11RHI:       0/0/4076 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.12.28-12.06.09:056][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.12.28-12.06.09:062][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.12.28-12.06.09:062][  0]LogD3D11RHI:     GPU DeviceId: 0x67b1 (for the marketing name, search the web for "GPU Device Id")
+[2016.12.28-12.06.09:062][  0]LogWindows: EnumDisplayDevices:
+[2016.12.28-12.06.09:063][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2016.12.28-12.06.09:063][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2016.12.28-12.06.09:063][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2016.12.28-12.06.09:064][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2016.12.28-12.06.09:064][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2016.12.28-12.06.09:064][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2016.12.28-12.06.09:064][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2016.12.28-12.06.09:064][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2016.12.28-12.06.09:064][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 16.12.2 (internal:21.19.407.0, unified:21.19.407.0)
+[2016.12.28-12.06.09:064][  0]LogD3D11RHI:      Driver Date: 12-19-2016
+[2016.12.28-12.06.09:064][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.12.28-12.06.09:078][  0]LogD3D11RHI: Async texture creation enabled
+[2016.12.28-12.06.09:093][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2016.12.28-12.06.09:095][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (G:/Mis documentos/GitHub/PGV/TheLastShelter/Intermediate/Shaders/WorkingDirectory/11752/).
+[2016.12.28-12.06.09:095][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/NeN/AppData/Local/Temp/UnrealShaderWorkingDir/9A41F227483AE5762AEC32ADF8D4AB84/'.
+[2016.12.28-12.06.09:095][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.12.28-12.06.12:416][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.12.28-12.06.12:495][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2016.12.28-12.06.12:572][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2016.12.28-12.06.12:651][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2016.12.28-12.06.12:754][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2016.12.28-12.06.12:833][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.12.28-12.06.12:912][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.12.28-12.06.12:992][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.12.28-12.06.13:055][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.12.28-12.06.13:165][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.12.28-12.06.13:241][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.12.28-12.06.13:322][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.12.28-12.06.13:398][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.12.28-12.06.13:475][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.12.28-12.06.13:551][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.12.28-12.06.13:703][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.12.28-12.06.13:703][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.12.28-12.06.13:766][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.12.28-12.06.13:929][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.12.28-12.06.13:977][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.12.28-12.06.14:053][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.12.28-12.06.14:130][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.12.28-12.06.14:205][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.12.28-12.06.14:300][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.12.28-12.06.14:300][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.12.28-12.06.14:919][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.12.28-12.06.15:089][  0]LogDerivedDataCache: Loaded boot cache 0.17s 61MB C:/Users/NeN/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2016.12.28-12.06.15:089][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/NeN/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2016.12.28-12.06.15:089][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Mis documentos/GitHub/PGV/TheLastShelter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.12.28-12.06.15:089][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.12.28-12.06.15:089][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Mis documentos/GitHub/PGV/TheLastShelter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.12.28-12.06.15:089][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.12.28-12.06.15:118][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.12.28-12.06.15:131][  0]LogDerivedDataCache: Using Local data cache path C:/Users/NeN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.12.28-12.06.15:675][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.28-12.06.15:680][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.12.28-12.06.16:109][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2016.12.28-12.06.16:175][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2016.12.28-12.06.16:257][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2016.12.28-12.06.16:257][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2016.12.28-12.06.16:257][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.12.28-12.06.19:245][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: thelastshelter, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 306971164
+[2016.12.28-12.06.19:376][  0]LogAssetRegistry: FAssetRegistry took 0.0224 seconds to start up
+[2016.12.28-12.06.19:431][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.019489 seconds
+[2016.12.28-12.06.19:441][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2016.12.28-12.06.19:441][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2016.12.28-12.06.19:441][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.12.28-12.06.19:540][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.12.28-12.06.20:831][  0]LogSlate: Using Freetype 2.6.0
+[2016.12.28-12.06.20:848][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.28-12.06.20:848][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.28-12.06.54:829][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.12.28-12.06.54:907][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.12.28-12.06.55:862][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.12.28-12.06.56:505][  0]SourceControl: Info Source control is disabled
+[2016.12.28-12.06.56:508][  0]SourceControl: Info Source control is disabled
+[2016.12.28-12.06.56:584][  0]SourceControl: Info Source control is disabled
+[2016.12.28-12.06.56:658][  0]SourceControl: Info Source control is disabled
+[2016.12.28-12.06.58:967][  0]LogEngine: Initializing Engine...
+[2016.12.28-12.06.58:968][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.12.28-12.06.59:357][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.12.28-12.06.59:390][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2016.12.28-12.06.59:434][  0]LogInit: FAudioDevice initialized.
+[2016.12.28-12.06.59:491][  0]LogDerivedDataCache: Saved boot cache 0.06s 60MB C:/Users/NeN/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2016.12.28-12.06.59:511][  0]LogInit: Texture streaming: Enabled
+[2016.12.28-12.06.59:883][  0]LogInit: Transaction tracking system initialized
+[2016.12.28-12.07.00:511][  0]BlueprintLog: New page: Editor Load
+[2016.12.28-12.07.01:909][  0]LocalizationService: Info Localization service is disabled
+[2016.12.28-12.07.03:143][  0]LogConsoleResponse:Display: 
+[2016.12.28-12.07.03:524][  0]LogFileCache: Scanning file cache for directory 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/' took 0.03s
+[2016.12.28-12.07.03:524][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.12.28-12.07.03:524][  0]LogCook:Display: Mobile HDR setting 1
+[2016.12.28-12.07.05:195][  0]SourceControl: Info Source control is disabled
+[2016.12.28-12.07.05:195][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.28-12.07.05:196][  0]LightingResults: New page: Lighting Build
+[2016.12.28-12.07.05:257][  0]MapCheck: New page: Map Check
+[2016.12.28-12.07.05:257][  0]LightingResults: New page: Lighting Build
+[2016.12.28-12.07.05:614][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2016.12.28-12.07.05:616][  0]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2016.12.28-12.07.05:625][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.28-12.07.05:631][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.28-12.07.05:717][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 86.175ms to complete.
+[2016.12.28-12.07.05:717][  0]LogFileHelpers: Loading map 'Template_Default' took 0.522
+[2016.12.28-12.07.05:801][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.28-12.07.07:371][  0]LogCollectionManager: Loaded 0 collections in 0.002933 seconds
+[2016.12.28-12.07.07:680][  0]LogFileCache: Scanning file cache for directory 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Collections/' took 0.01s
+[2016.12.28-12.07.07:680][  0]LogFileCache: Scanning file cache for directory 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Developers/NeN/Collections/' took 0.01s
+[2016.12.28-12.07.07:680][  0]LogFileCache: Scanning file cache for directory 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Collections/' took 0.01s
+[2016.12.28-12.07.07:680][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2016.12.28-12.07.07:716][  0]LogContentBrowser: Native class hierarchy populated in 0.0311 seconds. Added 2190 classes and 428 folders.
+[2016.12.28-12.07.07:894][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.12.28-12.07.07:894][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.12.28-12.07.07:895][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0008 seconds. Added 13 classes and 0 folders.
+[2016.12.28-12.07.08:046][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2016.12.28-12.07.08:793][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2016.12.28-12.07.09:028][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2016.12.28-12.07.10:472][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.12.28-12.07.10:790][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.12.28-12.07.10:888][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2016.12.28-12.07.10:889][  0]LogLoad: (Engine Initialization) Total time: 65.77 seconds
+[2016.12.28-12.07.10:889][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.42 seconds
+[2016.12.28-12.07.10:889][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.12.28-12.07.10:889][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.12.28-12.07.10:898][  0]LogOcInput: OculusInput pre-init called
+[2016.12.28-12.07.11:299][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.12.28-12.07.13:650][  0]LogRenderer: Reallocating scene render targets to support 1208x576 NumSamples 1 (Frame:2).
+[2016.12.28-12.07.14:177][  2]LogAssetRegistry: Asset discovery search completed in 54.8227 seconds
+[2016.12.28-12.07.14:177][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.12.28-12.07.14:177][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000023 seconds (updated 0 objects)
+[2016.12.28-12.07.20:609][434]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 111 classes and 0 folders.
+[2016.12.28-12.09.17:359][999]LogMaterial: Missing cached shader map for material MaterialBackGroundMain, compiling. 
+[2016.12.28-12.09.21:335][127]LogMaterial: Missing cached shader map for material MaterialBackGroundMain, compiling. 
+[2016.12.28-12.09.21:862][127]LogMaterial: Missing cached shader map for material MaterialBackGroundMain, compiling. 
+[2016.12.28-12.09.21:883][127]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.28-12.09.22:833][154]MaterialEditorStats: Info Default UI Pixel Shader: 28 instructions
+[2016.12.28-12.09.22:833][154]MaterialEditorStats: Info Default UI Vertex Shader: 20 instructions
+[2016.12.28-12.09.22:833][154]MaterialEditorStats: Info Instanced UI Vertex Shader: 20 instructions
+[2016.12.28-12.09.22:833][154]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.28-12.09.35:356][889]BlueprintLog: New page: Compile MainMenu
+[2016.12.28-12.10.06:276][518]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/Mis documentos/Grado Ingenieria Informatica 2ºB/Drive/Grado/CuartoCurso/1Cuatrimestre/PGV (1)/background.jpg)
+[2016.12.28-12.10.06:468][518]LogTexture:Display: Building textures: background (AutoDXT)
+[2016.12.28-12.11.19:987][620]LogMaterial: Missing cached shader map for material MaterialBackGroundMain, compiling. 
+[2016.12.28-12.11.19:998][620]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.28-12.11.20:014][620]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2016.12.28-12.11.22:170][745]MaterialEditorStats: Info Default UI Pixel Shader: 28 instructions
+[2016.12.28-12.11.22:171][745]MaterialEditorStats: Info Default UI Vertex Shader: 20 instructions
+[2016.12.28-12.11.22:171][745]MaterialEditorStats: Info Instanced UI Vertex Shader: 20 instructions
+[2016.12.28-12.11.22:171][745]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.28-12.11.24:539][897]LogMaterial: Missing cached shader map for material MaterialBackGroundMain, compiling. 
+[2016.12.28-12.11.24:550][897]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.28-12.11.24:580][897]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2016.12.28-12.11.25:991][986]MaterialEditorStats: Info Default UI Pixel Shader: 28 instructions
+[2016.12.28-12.11.25:991][986]MaterialEditorStats: Info Default UI Vertex Shader: 20 instructions
+[2016.12.28-12.11.25:991][986]MaterialEditorStats: Info Instanced UI Vertex Shader: 20 instructions
+[2016.12.28-12.11.25:991][986]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.28-12.13.05:225][158]LogStats: FPlatformStackWalk::StackWalkAndDump -  9.042 s
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: === Handled ensure: ===
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: 
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: Ensure condition failed: ResourceSizeMode == InRHS.ResourceSizeMode [File:D:\Build\++UE4+Release-4.14+Compile\Sync\Engine\Source\Runtime\Core\Public\ProfilingDebugging\ResourceSize.h] [Line: 193]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: The two resource sizes use different counting modes. The result of adding them together may be incorrect.
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: Stack: 
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:185]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:216]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:343]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-MediaAssets.dll!FResourceSizeEx::operator+=() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\core\public\profilingdebugging\resourcesize.h:193]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-MediaAssets.dll!UMediaTexture::GetResourceSizeEx() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\mediaassets\private\assets\mediatexture.cpp:217]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-CoreUObject.dll!UObject::GetResourceSizeBytes() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\coreuobject\public\uobject\object.h:497]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateRHIRenderer.dll!FDynamicResourceMap::AddUTextureResource() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slaterhirenderer\private\slaterhiresourcemanager.cpp:67]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateRHIRenderer.dll!FSlateRHIResourceManager::MakeDynamicUTextureResource() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slaterhirenderer\private\slaterhiresourcemanager.cpp:653]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateRHIRenderer.dll!FSlateRHIResourceManager::FindOrCreateDynamicTextureResource() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slaterhirenderer\private\slaterhiresourcemanager.cpp:672]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateRHIRenderer.dll!FSlateRHIResourceManager::GetShaderResource() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slaterhirenderer\private\slaterhiresourcemanager.cpp:532]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!FSlateDrawElement::MakeBox() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\rendering\drawelements.cpp:84]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-Slate.dll!SImage::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slate\private\widgets\images\simage.cpp:29]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-Slate.dll!SConstraintCanvas::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slate\private\widgets\layout\sconstraintcanvas.cpp:192]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:100]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-Slate.dll!SConstraintCanvas::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slate\private\widgets\layout\sconstraintcanvas.cpp:192]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:100]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-UMG.dll!SObjectWidget::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\umg\private\slate\sobjectwidget.cpp:71]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-Slate.dll!SBox::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slate\private\widgets\layout\sbox.cpp:235]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:19]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-Slate.dll!SBox::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slate\private\widgets\layout\sbox.cpp:235]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2016.12.28-12.13.05:225][158]LogOutputDevice:Error: UE4Editor-Slate.dll!SBorder::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slate\private\widgets\layout\sborder.cpp:86]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:100]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:100]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-UMGEditor.dll!SDesignSurface::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\editor\umgeditor\private\designer\sdesignsurface.cpp:195]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:19]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-Slate.dll!SScissorRectBox::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slate\private\widgets\layout\sscissorrectbox.cpp:67]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-Slate.dll!SBorder::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slate\private\widgets\layout\sborder.cpp:86]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:100]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:19]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-Slate.dll!SSplitter::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slate\private\widgets\layout\ssplitter.cpp:166]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-Slate.dll!SSplitter::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slate\private\widgets\layout\ssplitter.cpp:166]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:100]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:19]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-Slate.dll!SBorder::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slate\private\widgets\layout\sborder.cpp:86]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:100]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:19]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-Slate.dll!SSplitter::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slate\private\widgets\layout\ssplitter.cpp:166]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:100]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:25]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:19]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:44]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:19]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:692]
+[2016.12.28-12.13.05:226][158]LogOutputDevice:Error: 
+[2016.12.28-12.13.05:235][158]LogStats:                SubmitErrorReport -  0.000 s
