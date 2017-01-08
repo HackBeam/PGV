@@ -1,0 +1,1105 @@
+﻿Log file open, 01/06/17 14:58:22
+LogInit:Display: Running engine for game: TheLastShelter
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-701389329) SRandInit(-701389322).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.101733
+LogPluginManager: Loaded Plugin Paper2D, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogPluginManager: Loaded Plugin VictoryPlugin, From L:/Unreal Engine 4/Epic Games/4.14/Engine/Plugins/VictoryPlugin/VictoryPlugin.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3224400
+LogInit: Engine Version: 4.14.1-3224400+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Dec  7 2016 02:14:32
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: L:/Unreal Engine 4/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.06-13.58.22:716][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.06-13.58.22:717][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.06-13.58.22:751][  0]LogInit: Computer: NEN-PC
+[2017.01.06-13.58.22:751][  0]LogInit: User: NeN
+[2017.01.06-13.58.22:751][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.01.06-13.58.22:751][  0]LogInit: High frequency timer resolution =14.318180 MHz
+[2017.01.06-13.58.22:751][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.01.06-13.58.22:751][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.06-13.58.22:751][  0]LogMemory: Process Physical Memory: 263.92 MB used, 263.92 MB peak
+[2017.01.06-13.58.22:751][  0]LogMemory: Process Virtual Memory: 262.55 MB used, 262.55 MB peak
+[2017.01.06-13.58.22:751][  0]LogMemory: Physical Memory: 5957.12 MB used,  2196.11 MB free, 8153.22 MB total
+[2017.01.06-13.58.22:751][  0]LogMemory: Virtual Memory: 675.63 MB used,  2196.11 MB free, 134217728.00 MB total
+[2017.01.06-13.58.22:781][  0]LogInit: Overriding culture en with editor configuration.
+[2017.01.06-13.58.23:899][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.06-13.58.23:943][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2017.01.06-13.58.23:943][  0]LogD3D11RHI:       4073/0/4076 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.01.06-13.58.23:945][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.06-13.58.23:945][  0]LogD3D11RHI:       0/0/4076 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.06-13.58.23:945][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.06-13.58.23:955][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.06-13.58.23:955][  0]LogD3D11RHI:     GPU DeviceId: 0x67b1 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.06-13.58.23:955][  0]LogWindows: EnumDisplayDevices:
+[2017.01.06-13.58.23:955][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2017.01.06-13.58.23:955][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.01.06-13.58.23:956][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.01.06-13.58.23:956][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.01.06-13.58.23:956][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.01.06-13.58.23:957][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.01.06-13.58.23:957][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2017.01.06-13.58.23:957][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2017.01.06-13.58.23:957][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 16.12.2 (internal:21.19.407.0, unified:21.19.407.0)
+[2017.01.06-13.58.23:957][  0]LogD3D11RHI:      Driver Date: 12-19-2016
+[2017.01.06-13.58.23:957][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.01.06-13.58.23:972][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.06-13.58.23:989][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.01.06-13.58.23:991][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (G:/Mis documentos/GitHub/PGV/TheLastShelter/Intermediate/Shaders/WorkingDirectory/8744/).
+[2017.01.06-13.58.23:991][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/NeN/AppData/Local/Temp/UnrealShaderWorkingDir/8B7656BD4C2C52105721B68AF249C1D9/'.
+[2017.01.06-13.58.23:991][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.06-13.58.25:863][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.06-13.58.25:941][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.06-13.58.26:020][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.06-13.58.26:097][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.06-13.58.26:176][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.06-13.58.26:254][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.06-13.58.26:332][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.06-13.58.26:410][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.06-13.58.26:473][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.06-13.58.26:549][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.06-13.58.26:627][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.06-13.58.26:704][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.06-13.58.26:780][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.06-13.58.26:856][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.06-13.58.26:932][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.06-13.58.27:083][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.06-13.58.27:083][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.06-13.58.27:134][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.06-13.58.27:248][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.06-13.58.27:298][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.06-13.58.27:373][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.06-13.58.27:449][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.06-13.58.27:524][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.06-13.58.27:602][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.06-13.58.27:602][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.06-13.58.28:171][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.06-13.58.28:279][  0]LogDerivedDataCache: Loaded boot cache 0.11s 50MB C:/Users/NeN/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.06-13.58.28:279][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/NeN/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.06-13.58.28:279][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Mis documentos/GitHub/PGV/TheLastShelter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.06-13.58.28:279][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.06-13.58.28:280][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Mis documentos/GitHub/PGV/TheLastShelter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.06-13.58.28:280][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.06-13.58.28:308][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.06-13.58.28:321][  0]LogDerivedDataCache: Using Local data cache path C:/Users/NeN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.06-13.58.28:647][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.06-13.58.28:649][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.06-13.58.28:961][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.06-13.58.29:028][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.06-13.58.29:093][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.06-13.58.29:093][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.06-13.58.29:093][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.06-13.58.29:853][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: thelastshelter, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 306971164
+[2017.01.06-13.58.29:921][  0]LogAssetRegistry: FAssetRegistry took 0.0215 seconds to start up
+[2017.01.06-13.58.30:160][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.211113 seconds
+[2017.01.06-13.58.30:169][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.06-13.58.30:169][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.01.06-13.58.30:169][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.06-13.58.30:251][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.06-13.58.31:228][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.06-13.58.31:230][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.06-13.58.31:230][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.06-13.58.32:690][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.06-13.58.32:742][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.06-13.58.33:146][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.06-13.58.33:666][  0]SourceControl: Info Source control is disabled
+[2017.01.06-13.58.33:669][  0]SourceControl: Info Source control is disabled
+[2017.01.06-13.58.33:733][  0]SourceControl: Info Source control is disabled
+[2017.01.06-13.58.33:796][  0]SourceControl: Info Source control is disabled
+[2017.01.06-13.58.35:528][  0]LogEngine: Initializing Engine...
+[2017.01.06-13.58.35:529][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.06-13.58.35:868][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.06-13.58.35:902][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.06-13.58.35:922][  0]LogInit: FAudioDevice initialized.
+[2017.01.06-13.58.35:969][  0]LogDerivedDataCache: Saved boot cache 0.05s 50MB C:/Users/NeN/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.06-13.58.35:984][  0]LogInit: Texture streaming: Enabled
+[2017.01.06-13.58.36:260][  0]LogInit: Transaction tracking system initialized
+[2017.01.06-13.58.36:741][  0]BlueprintLog: New page: Editor Load
+[2017.01.06-13.58.37:937][  0]LocalizationService: Info Localization service is disabled
+[2017.01.06-13.58.38:862][  0]LogConsoleResponse:Display: 
+[2017.01.06-13.58.39:118][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.06-13.58.39:118][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.06-13.58.39:150][  0]LogFileCache: Scanning file cache for directory 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/' took 0.01s
+[2017.01.06-13.58.40:542][  0]SourceControl: Info Source control is disabled
+[2017.01.06-13.58.40:542][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.06-13.58.40:543][  0]LightingResults: New page: Lighting Build
+[2017.01.06-13.58.40:598][  0]MapCheck: New page: Map Check
+[2017.01.06-13.58.40:598][  0]LightingResults: New page: Lighting Build
+[2017.01.06-13.58.40:973][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.01.06-13.58.40:975][  0]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.01.06-13.58.40:986][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.06-13.58.40:992][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.06-13.58.41:087][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 94.075ms to complete.
+[2017.01.06-13.58.41:087][  0]LogFileHelpers: Loading map 'Template_Default' took 0.545
+[2017.01.06-13.58.41:175][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.06-13.58.41:898][  0]LogCollectionManager: Loaded 0 collections in 0.003231 seconds
+[2017.01.06-13.58.42:082][  0]LogFileCache: Scanning file cache for directory 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Collections/' took 0.01s
+[2017.01.06-13.58.42:082][  0]LogFileCache: Scanning file cache for directory 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Developers/NeN/Collections/' took 0.01s
+[2017.01.06-13.58.42:082][  0]LogFileCache: Scanning file cache for directory 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Collections/' took 0.01s
+[2017.01.06-13.58.42:082][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2017.01.06-13.58.42:113][  0]LogContentBrowser: Native class hierarchy populated in 0.0232 seconds. Added 2190 classes and 428 folders.
+[2017.01.06-13.58.42:210][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.06-13.58.42:211][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2017.01.06-13.58.42:219][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0008 seconds. Added 13 classes and 0 folders.
+[2017.01.06-13.58.42:318][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.01.06-13.58.43:507][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.01.06-13.58.43:615][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.01.06-13.58.44:282][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.06-13.58.44:380][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.06-13.58.44:485][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.01.06-13.58.44:486][  0]LogLoad: (Engine Initialization) Total time: 24.37 seconds
+[2017.01.06-13.58.44:486][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.13 seconds
+[2017.01.06-13.58.44:486][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.06-13.58.44:486][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.06-13.58.44:496][  0]LogOcInput: OculusInput pre-init called
+[2017.01.06-13.58.44:646][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.01.06-13.58.45:431][  0]LogRenderer: Reallocating scene render targets to support 1208x576 NumSamples 1 (Frame:2).
+[2017.01.06-13.58.45:626][  2]LogAssetRegistry: Asset discovery search completed in 15.7265 seconds
+[2017.01.06-13.58.45:626][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2017.01.06-13.58.45:626][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000023 seconds (updated 0 objects)
+[2017.01.06-13.58.50:776][485]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-13.58.51:211][485]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-13.58.51:227][485]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-13.58.51:258][485]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.01.06-13.58.56:046][677]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.01.06-13.58.56:046][677]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.01.06-13.58.56:046][677]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.01.06-13.59.17:846][509]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/Mis documentos/Grado Ingenieria Informatica 2ºB/Drive/Grado/CuartoCurso/1Cuatrimestre/PGV (1)/imagenes/fire-spot.jpg)
+[2017.01.06-13.59.17:891][509]LogTexture:Display: Building textures: fire-spot (AutoDXT)
+[2017.01.06-13.59.21:317][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/textures/fire-spot" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/textures/fire-spot.uasset" SILENT=true
+[2017.01.06-13.59.21:383][821]LogSavePackage: Save=36.48ms
+[2017.01.06-13.59.21:383][821]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/fire-spot807C1D7C412A39FCE96023A298267619.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/textures/fire-spot.uasset'
+[2017.01.06-13.59.21:385][821]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/textures/fire-spot.uasset
+[2017.01.06-13.59.30:209][352]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-13.59.30:224][352]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-13.59.30:250][352]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.01.06-13.59.36:848][734]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.01.06-13.59.36:848][734]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.01.06-13.59.36:848][734]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.01.06-13.59.51:933][661]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-13.59.51:948][661]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-13.59.51:978][661]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.01.06-13.59.58:923][ 12]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.01.06-13.59.58:923][ 12]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.01.06-13.59.58:923][ 12]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.01.06-14.00.27:402][299]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-14.00.27:440][299]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-14.00.27:460][299]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-14.00.33:246][632]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.06-14.00.33:247][632]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.06-14.00.33:247][632]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-14.00.33:247][632]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.06-14.01.09:752][171]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-14.01.09:771][171]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-14.01.09:781][171]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-14.01.13:054][357]MaterialEditorStats: Info Base pass shader without light map: 5 instructions
+[2017.01.06-14.01.13:054][357]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-14.01.13:054][357]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.15.06:979][415]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/Mis documentos/Grado Ingenieria Informatica 2ºB/Drive/Grado/CuartoCurso/1Cuatrimestre/PGV (1)/imagenes/ripple-fire-texture-blanco-negro.jpg)
+[2017.01.06-15.15.07:015][415]LogTexture:Display: Building textures: ripple-fire-texture-blanco-negro (AutoDXT)
+[2017.01.06-15.15.07:366][416]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.030
+[2017.01.06-15.15.07:406][416]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/textures/ripple-fire-texture-blanco-negro] ([1] browsable assets)...
+[2017.01.06-15.15.07:421][416]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/textures/ripple-fire-texture-blanco-negro.ripple-fire-texture-blanco-negro]
+[2017.01.06-15.15.07:422][416]OBJ SavePackage: Finished generating thumbnails for package [/Game/textures/ripple-fire-texture-blanco-negro]
+[2017.01.06-15.15.07:435][416]LogSavePackage: Save=11.16ms
+[2017.01.06-15.15.07:435][416]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/ripple-fire-texture-blanco-negro_Auto1C6D456434CDDA98188AAF5B697392B5B.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/textures/ripple-fire-texture-blanco-negro_Auto1.uasset'
+[2017.01.06-15.15.07:436][416]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/textures/ripple-fire-texture-blanco-negro_Auto1.uasset
+[2017.01.06-15.15.07:436][416]LogFileHelpers: Auto-saving content packages took 0.069
+[2017.01.06-15.24.59:486][196]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/Mis documentos/Grado Ingenieria Informatica 2ºB/Drive/Grado/CuartoCurso/1Cuatrimestre/PGV (1)/imagenes/ripple-fire-texture-bump.jpg)
+[2017.01.06-15.24.59:500][196]LogTexture:Display: Building textures: ripple-fire-texture-bump (BC5)
+[2017.01.06-15.25.04:323][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/textures/ripple-fire-texture-blanco-negro" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/textures/ripple-fire-texture-blanco-negro.uasset" SILENT=true
+[2017.01.06-15.25.04:341][574]LogSavePackage: Save=15.32ms
+[2017.01.06-15.25.04:341][574]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/ripple-fire-texture-blanco-negro61A06DC14775F2482713F3BE094ADE6F.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/textures/ripple-fire-texture-blanco-negro.uasset'
+[2017.01.06-15.25.04:343][574]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/textures/ripple-fire-texture-blanco-negro.uasset
+[2017.01.06-15.25.05:219][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/textures/ripple-fire-texture-bump" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/textures/ripple-fire-texture-bump.uasset" SILENT=true
+[2017.01.06-15.25.05:242][641]LogSavePackage: Save=20.91ms
+[2017.01.06-15.25.05:242][641]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/ripple-fire-texture-bump17736F6947FAE2691D3A64858EAC6010.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/textures/ripple-fire-texture-bump.uasset'
+[2017.01.06-15.25.05:244][641]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/textures/ripple-fire-texture-bump.uasset
+[2017.01.06-15.26.20:641][470]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.26.20:651][470]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.26.20:653][470]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.01.06-15.26.26:623][689]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.26.26:634][689]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.26.26:674][689]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.01.06-15.26.38:262][320]MaterialEditorStats: Info Base pass shader without light map: 5 instructions
+[2017.01.06-15.26.38:262][320]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.26.38:263][320]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.26.55:863][706]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.26.55:873][706]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.26.55:875][706]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.01.06-15.27.07:173][271]MaterialEditorStats: Info Base pass shader without light map: 5 instructions
+[2017.01.06-15.27.07:173][271]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.27.07:173][271]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.27.49:825][333]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.27.49:835][333]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.27.49:869][333]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.01.06-15.27.56:613][649]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.27.56:623][649]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.27.56:656][649]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.01.06-15.28.05:708][886]MaterialEditorStats: Info Base pass shader without light map: 5 instructions
+[2017.01.06-15.28.05:708][886]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.28.05:708][886]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.28.09:812][ 85]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.28.09:821][ 85]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.28.09:852][ 85]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.06-15.28.09:865][ 85]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.01.06-15.28.15:870][265]MaterialEditorStats: Info Base pass shader without light map: 5 instructions
+[2017.01.06-15.28.15:870][265]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.28.15:870][265]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.28.48:041][176]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.28.48:051][176]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.28.48:106][176]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.06-15.28.48:113][176]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.01.06-15.28.51:204][344]MaterialEditorStats: Info Base pass shader without light map: 5 instructions
+[2017.01.06-15.28.51:204][344]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.28.51:204][344]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.29.06:409][256]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.29.06:418][256]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.29.06:451][256]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.01.06-15.29.08:430][365]MaterialEditorStats: Info Base pass shader without light map: 5 instructions
+[2017.01.06-15.29.08:430][365]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.29.08:430][365]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.29.44:078][955]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.29.44:088][955]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.29.46:637][ 98]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.29.46:647][ 98]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.29.46:676][ 98]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.06-15.29.48:756][214]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.29.48:765][214]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.29.48:796][214]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.01.06-15.29.51:894][331]MaterialEditorStats: Info Base pass shader without light map: 5 instructions
+[2017.01.06-15.29.51:894][331]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.29.51:894][331]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.30.09:049][523]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.30.09:058][523]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.30.09:084][523]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.01.06-15.30.12:339][709]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_0, compiling. 
+[2017.01.06-15.30.12:397][709]MaterialEditorStats: Info Base pass shader without light map: 5 instructions
+[2017.01.06-15.30.12:397][709]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.30.12:397][709]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.30.56:325][408]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_0, compiling. 
+[2017.01.06-15.30.57:853][496]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.06-15.30.57:858][496]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.30.57:861][496]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.30.57:870][496]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.31.00:195][626]MaterialEditorStats: Info Base pass shader without light map: 5 instructions
+[2017.01.06-15.31.00:195][626]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.31.00:195][626]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.31.04:914][913]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_0, compiling. 
+[2017.01.06-15.31.25:612][137]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.06-15.31.25:616][137]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.31.25:619][137]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.31.25:628][137]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.31.25:685][137]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.01.06-15.31.25:691][137]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_0, compiling. 
+[2017.01.06-15.31.28:729][304]MaterialEditorStats: Info Base pass shader without light map: 5 instructions
+[2017.01.06-15.31.28:729][304]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.31.28:729][304]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.32.15:006][136]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.32.15:016][136]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.32.17:356][268]MaterialEditorStats: Info Base pass shader without light map: 5 instructions
+[2017.01.06-15.32.17:356][268]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.32.17:356][268]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.32.31:163][970]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.32.31:173][970]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.32.31:198][970]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_0, compiling. 
+[2017.01.06-15.32.33:189][ 74]MaterialEditorStats: Info Base pass shader without light map: 9 instructions
+[2017.01.06-15.32.33:189][ 74]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.32.33:189][ 74]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.32.42:812][658]Cmd: STAT FPS
+[2017.01.06-15.32.59:964][688]LogMaterialEditor: Saving and Compiling material letters_main_menu
+[2017.01.06-15.33.03:965][688]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.33.03:983][688]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.33.04:038][688]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.33.04:060][688]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.33.04:072][688]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.33.06:849][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/letters_main_menu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Material/letters_main_menu.uasset" SILENT=true
+[2017.01.06-15.33.06:945][688]LogSavePackage: Save=42.09ms
+[2017.01.06-15.33.06:945][688]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/letters_main_menu1A2B02D843E3C190479F8C9D79BD0C8F.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Material/letters_main_menu.uasset'
+[2017.01.06-15.33.06:972][688]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Material/letters_main_menu.uasset
+[2017.01.06-15.33.06:977][688]MaterialEditorStats: Info Base pass shader without light map: 33 instructions
+[2017.01.06-15.33.06:977][688]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.33.06:977][688]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.33.17:225][302]Cmd: STAT FPS
+[2017.01.06-15.33.31:045][124]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.33.31:092][124]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.33.31:114][124]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.33.33:812][267]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.33.33:840][267]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.33.33:850][267]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.33.36:718][423]MaterialEditorStats: Info Base pass shader without light map: 9 instructions
+[2017.01.06-15.33.36:718][423]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.33.36:718][423]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.35.27:270][266]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.35.27:306][266]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.35.27:326][266]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.35.29:703][391]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.35.29:728][391]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.35.29:738][391]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.35.32:161][517]MaterialEditorStats: Info Base pass shader without light map: 9 instructions
+[2017.01.06-15.35.32:161][517]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.35.32:161][517]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.36.30:643][604]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.36.30:652][604]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.36.30:654][604]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.01.06-15.36.33:291][741]MaterialEditorStats: Info Base pass shader without light map: 9 instructions
+[2017.01.06-15.36.33:291][741]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.36.33:291][741]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.36.49:058][504]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.36.49:067][504]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.36.50:705][590]MaterialEditorStats: Info Base pass shader without light map: 9 instructions
+[2017.01.06-15.36.50:705][590]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.36.50:705][590]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.36.52:167][677]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.36.52:176][677]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.36.52:201][677]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.01.06-15.36.54:201][786]MaterialEditorStats: Info Base pass shader without light map: 9 instructions
+[2017.01.06-15.36.54:201][786]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.36.54:201][786]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.37.16:604][ 73]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2017.01.06-15.37.24:206][517]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.37.24:215][517]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.37.24:242][517]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2017.01.06-15.37.26:584][643]MaterialEditorStats: Info Base pass shader without light map: 9 instructions
+[2017.01.06-15.37.26:584][643]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.37.26:584][643]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.37.28:035][727]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.37.28:044][727]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.37.28:070][727]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2017.01.06-15.37.30:077][834]MaterialEditorStats: Info Base pass shader without light map: 9 instructions
+[2017.01.06-15.37.30:077][834]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.37.30:077][834]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.37.30:917][881]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2017.01.06-15.38.01:521][441]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.38.01:531][441]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.38.01:560][441]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2017.01.06-15.38.04:602][604]MaterialEditorStats: Info Base pass shader without light map: 9 instructions
+[2017.01.06-15.38.04:602][604]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.38.04:603][604]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.38.29:886][127]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.38.29:896][127]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.38.32:172][246]MaterialEditorStats: Info Base pass shader without light map: 9 instructions
+[2017.01.06-15.38.32:172][246]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.38.32:172][246]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.38.52:619][617]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.38.52:629][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.38.52:654][617]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.01.06-15.38.55:304][756]MaterialEditorStats: Info Base pass shader without light map: 9 instructions
+[2017.01.06-15.38.55:304][756]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.38.55:304][756]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.39.01:685][115]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.39.01:694][115]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.39.03:383][199]MaterialEditorStats: Info Base pass shader without light map: 11 instructions
+[2017.01.06-15.39.03:383][199]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.39.03:383][199]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.39.17:470][896]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.39.17:479][896]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.39.19:143][985]MaterialEditorStats: Info Base pass shader without light map: 11 instructions
+[2017.01.06-15.39.19:143][985]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.39.19:143][985]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.40.22:507][440]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.40.22:516][440]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.40.22:542][440]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.06-15.40.25:074][572]MaterialEditorStats: Info Base pass shader without light map: 11 instructions
+[2017.01.06-15.40.25:074][572]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.40.25:074][572]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.40.34:066][ 74]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.40.34:075][ 74]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.40.34:106][ 74]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.01.06-15.40.36:051][173]MaterialEditorStats: Info Base pass shader without light map: 11 instructions
+[2017.01.06-15.40.36:052][173]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.40.36:052][173]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.40.44:095][632]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.40.44:105][632]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.40.44:137][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.01.06-15.40.46:228][739]MaterialEditorStats: Info Base pass shader without light map: 11 instructions
+[2017.01.06-15.40.46:228][739]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.40.46:228][739]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.41.34:910][849]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.41.34:920][849]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.41.37:929][  8]MaterialEditorStats: Info Base pass shader without light map: 11 instructions
+[2017.01.06-15.41.37:929][  8]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.41.37:929][  8]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.41.42:256][255]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.41.42:266][255]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.41.42:291][255]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2017.01.06-15.41.45:043][407]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.41.45:052][407]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.41.47:009][515]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.41.47:018][515]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.41.47:045][515]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.01.06-15.41.49:079][624]MaterialEditorStats: Info Base pass shader without light map: 14 instructions
+[2017.01.06-15.41.49:079][624]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.41.49:079][624]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.42.02:505][403]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_0, compiling. 
+[2017.01.06-15.43.15:656][548]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.43.15:666][548]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.43.15:694][548]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_0, compiling. 
+[2017.01.06-15.43.15:701][548]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.43.15:711][548]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.43.15:740][548]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_0, compiling. 
+[2017.01.06-15.43.19:219][732]MaterialEditorStats: Info Base pass shader without light map: 14 instructions
+[2017.01.06-15.43.19:220][732]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.43.19:220][732]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.43.21:078][841]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.43.21:087][841]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.43.23:503][938]MaterialEditorStats: Info Base pass shader without light map: 14 instructions
+[2017.01.06-15.43.23:503][938]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.43.23:503][938]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.43.32:642][314]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.43.32:651][314]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.43.32:654][314]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.43.32:663][314]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.43.34:355][401]MaterialEditorStats: Info Base pass shader without light map: 14 instructions
+[2017.01.06-15.43.34:355][401]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.43.34:356][401]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.43.36:145][504]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.43.36:155][504]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.43.37:915][599]MaterialEditorStats: Info Base pass shader without light map: 14 instructions
+[2017.01.06-15.43.37:915][599]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.43.37:915][599]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.43.42:107][838]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2017.01.06-15.44.23:632][543]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.44.23:641][543]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.44.23:667][543]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2017.01.06-15.44.26:517][694]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2017.01.06-15.44.26:517][694]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.44.26:517][694]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.46.38:103][706]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'MaterialGraphNode_26.MaterialExpressionTextureSample_3',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.01.06-15.46.38:103][706]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'MaterialGraphNode_27.MaterialExpressionComponentMask_1')'
+[2017.01.06-15.46.38:105][706]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'MaterialGraphNode_28.MaterialExpressionMultiply_2')'
+[2017.01.06-15.46.38:105][706]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'MaterialGraphNode_29.MaterialExpressionPanner_1')'
+[2017.01.06-15.46.38:119][706]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.46.38:128][706]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.46.38:235][706]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.01.06-15.46.38:241][706]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_2, compiling. 
+[2017.01.06-15.46.38:248][706]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_3, compiling. 
+[2017.01.06-15.46.38:254][706]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_2, compiling. 
+[2017.01.06-15.46.38:260][706]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_3, compiling. 
+[2017.01.06-15.46.38:266][706]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_4, compiling. 
+[2017.01.06-15.46.38:271][706]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_3, compiling. 
+[2017.01.06-15.46.38:277][706]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.01.06-15.46.40:715][839]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2017.01.06-15.46.40:715][839]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.46.40:715][839]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.46.45:709][127]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.46.45:719][127]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.46.45:826][127]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_3, compiling. 
+[2017.01.06-15.46.45:835][127]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_4, compiling. 
+[2017.01.06-15.46.45:842][127]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_3, compiling. 
+[2017.01.06-15.46.45:848][127]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.01.06-15.46.48:198][255]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2017.01.06-15.46.48:198][255]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.46.48:198][255]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.46.58:888][640]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.46.58:897][640]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.46.58:924][640]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_3, compiling. 
+[2017.01.06-15.47.00:906][747]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2017.01.06-15.47.00:906][747]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.47.00:906][747]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.47.04:778][975]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.47.04:787][975]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.47.04:815][975]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_4, compiling. 
+[2017.01.06-15.47.06:809][ 82]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2017.01.06-15.47.06:810][ 82]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.47.06:810][ 82]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.47.14:352][524]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.47.14:361][524]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.47.16:166][625]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2017.01.06-15.47.16:166][625]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.47.16:166][625]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.47.26:467][239]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.47.26:476][239]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.47.28:208][331]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2017.01.06-15.47.28:208][331]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.47.28:208][331]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.47.51:399][578]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2017.01.06-15.47.55:169][800]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.47.55:178][800]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.47.55:206][800]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2017.01.06-15.47.57:184][909]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2017.01.06-15.47.57:184][909]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.47.57:184][909]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.48.16:477][215]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.48.16:486][215]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.48.16:517][215]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.01.06-15.48.18:534][321]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2017.01.06-15.48.18:534][321]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.48.18:534][321]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.49.05:331][ 23]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.49.05:341][ 23]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.49.05:372][ 23]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_4, compiling. 
+[2017.01.06-15.49.07:901][154]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2017.01.06-15.49.07:901][154]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.49.07:901][154]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.51.33:579][351]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.51.33:589][351]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.51.36:528][493]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2017.01.06-15.51.36:528][493]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.51.36:528][493]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.51.45:393][834]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.51.45:402][834]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.51.45:405][834]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.51.45:414][834]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.51.47:150][914]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2017.01.06-15.51.47:150][914]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.51.47:150][914]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.52.04:152][122]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.52.04:162][122]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.52.05:966][206]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2017.01.06-15.52.05:966][206]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.52.05:966][206]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.52.06:203][217]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_4, compiling. 
+[2017.01.06-15.52.09:877][400]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_1, compiling. 
+[2017.01.06-15.52.35:766][867]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.52.35:776][867]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.52.35:829][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_1, compiling. 
+[2017.01.06-15.52.35:835][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_4, compiling. 
+[2017.01.06-15.52.35:842][867]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.52.35:852][867]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.52.35:880][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_4, compiling. 
+[2017.01.06-15.52.39:445][ 30]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2017.01.06-15.52.39:445][ 30]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.52.39:445][ 30]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.52.40:081][ 62]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.52.40:091][ 62]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.52.41:941][148]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2017.01.06-15.52.41:941][148]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.52.41:942][148]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.53.20:960][548]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.53.20:969][548]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.53.20:972][548]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.53.20:981][548]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.53.23:223][650]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_0, compiling. 
+[2017.01.06-15.53.24:934][737]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2017.01.06-15.53.24:934][737]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.53.24:935][737]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.53.27:964][889]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_4, compiling. 
+[2017.01.06-15.54.22:747][419]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.54.22:758][419]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.54.22:814][419]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_4, compiling. 
+[2017.01.06-15.54.22:819][419]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_0, compiling. 
+[2017.01.06-15.54.30:273][773]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.54.30:282][773]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.54.32:249][860]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2017.01.06-15.54.32:249][860]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.54.32:249][860]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.54.40:883][293]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.54.40:893][293]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.54.40:921][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_0, compiling. 
+[2017.01.06-15.54.43:325][350]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2017.01.06-15.54.43:325][350]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.54.43:325][350]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.54.47:380][479]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.54.47:390][479]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.54.49:815][600]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2017.01.06-15.54.49:815][600]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.54.49:815][600]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.55.01:257][926]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.55.01:267][926]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.55.01:295][926]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_4, compiling. 
+[2017.01.06-15.55.03:273][ 32]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2017.01.06-15.55.03:273][ 32]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.55.03:273][ 32]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.55.11:500][367]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.55.11:510][367]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.55.13:665][489]MaterialEditorStats: Info Base pass shader without light map: 25 instructions
+[2017.01.06-15.55.13:665][489]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.55.13:665][489]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.55.47:359][ 67]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.55.47:369][ 67]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.55.47:396][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_4, compiling. 
+[2017.01.06-15.55.50:040][212]MaterialEditorStats: Info Base pass shader without light map: 25 instructions
+[2017.01.06-15.55.50:040][212]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.55.50:040][212]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.56.33:132][111]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'MaterialGraphNode_29.MaterialExpressionPanner_4')'
+[2017.01.06-15.56.33:145][111]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.56.33:155][111]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.56.33:211][111]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_5, compiling. 
+[2017.01.06-15.56.33:218][111]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.01.06-15.56.33:224][111]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_6, compiling. 
+[2017.01.06-15.56.33:230][111]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2017.01.06-15.56.35:831][252]MaterialEditorStats: Info Base pass shader without light map: 25 instructions
+[2017.01.06-15.56.35:831][252]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.56.35:831][252]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.56.38:361][401]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'MaterialGraphNode_29.MaterialExpressionPanner_7')'
+[2017.01.06-15.56.38:374][401]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.56.38:383][401]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.56.38:436][401]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_8, compiling. 
+[2017.01.06-15.56.38:443][401]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.01.06-15.56.38:449][401]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.01.06-15.56.38:455][401]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_9, compiling. 
+[2017.01.06-15.56.40:586][517]MaterialEditorStats: Info Base pass shader without light map: 25 instructions
+[2017.01.06-15.56.40:586][517]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.56.40:586][517]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.57.43:176][233]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.57.43:186][233]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.57.43:262][233]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_5, compiling. 
+[2017.01.06-15.57.43:268][233]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.01.06-15.57.43:276][233]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_9, compiling. 
+[2017.01.06-15.57.46:024][383]MaterialEditorStats: Info Base pass shader without light map: 25 instructions
+[2017.01.06-15.57.46:024][383]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.57.46:024][383]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.58.39:335][869]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.58.39:345][869]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.58.39:374][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_8, compiling. 
+[2017.01.06-15.58.44:323][ 50]MaterialEditorStats: Info Base pass shader without light map: 25 instructions
+[2017.01.06-15.58.44:323][ 50]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.58.44:323][ 50]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.59.03:714][408]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.59.03:724][408]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.59.03:754][408]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_9, compiling. 
+[2017.01.06-15.59.06:272][547]MaterialEditorStats: Info Base pass shader without light map: 25 instructions
+[2017.01.06-15.59.06:272][547]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.59.06:272][547]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-15.59.22:085][992]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-15.59.22:094][992]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-15.59.22:119][992]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_9, compiling. 
+[2017.01.06-15.59.24:112][100]MaterialEditorStats: Info Base pass shader without light map: 25 instructions
+[2017.01.06-15.59.24:112][100]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-15.59.24:112][100]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-16.00.14:893][769]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-16.00.14:903][769]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-16.00.14:906][769]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-16.00.14:916][769]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-16.00.14:946][769]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.01.06-16.00.17:708][915]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-16.00.17:718][915]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-16.00.17:748][915]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.01.06-16.00.21:315][108]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-16.00.21:324][108]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-16.00.23:043][196]MaterialEditorStats: Info Base pass shader without light map: 25 instructions
+[2017.01.06-16.00.23:043][196]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-16.00.23:043][196]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-16.00.26:514][396]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-16.00.26:523][396]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-16.00.28:501][503]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-16.00.28:511][503]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-16.00.28:540][503]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.01.06-16.00.32:314][708]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-16.00.32:324][708]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-16.00.32:326][708]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-16.00.32:335][708]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-16.00.34:090][796]MaterialEditorStats: Info Base pass shader without light map: 25 instructions
+[2017.01.06-16.00.34:090][796]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-16.00.34:090][796]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-16.00.36:460][931]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-16.00.36:469][931]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-16.00.38:767][  0]MaterialEditorStats: Info Base pass shader without light map: 25 instructions
+[2017.01.06-16.00.38:767][  0]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-16.00.38:767][  0]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-16.00.52:458][218]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-16.00.52:468][218]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-16.00.52:498][218]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_3, compiling. 
+[2017.01.06-16.00.54:493][321]MaterialEditorStats: Info Base pass shader without light map: 34 instructions
+[2017.01.06-16.00.54:493][321]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-16.00.54:493][321]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-16.01.35:137][630]LogMaterialEditor: Saving and Compiling material letters_main_menu
+[2017.01.06-16.01.36:312][630]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-16.01.36:330][630]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-16.01.36:355][630]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-16.01.36:372][630]LogMaterial: Missing cached shader map for material letters_main_menu, compiling. 
+[2017.01.06-16.01.36:386][630]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.06-16.01.39:298][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/letters_main_menu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Material/letters_main_menu.uasset" SILENT=true
+[2017.01.06-16.01.39:325][630]LogSavePackage: Save=23.14ms
+[2017.01.06-16.01.39:325][630]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/letters_main_menu2DC35EBA4621F94875F08BA95F734432.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Material/letters_main_menu.uasset'
+[2017.01.06-16.01.39:327][630]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Material/letters_main_menu.uasset
+[2017.01.06-16.01.39:333][630]MaterialEditorStats: Info Base pass shader without light map: 58 instructions
+[2017.01.06-16.01.39:333][630]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.06-16.01.39:333][630]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.01.06-16.01.42:403][821]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.06-16.01.42:941][822]Cmd: QUIT_EDITOR
+[2017.01.06-16.01.43:226][822]LogExit: Preparing to exit.
+[2017.01.06-16.01.44:558][822]LogExit: Editor shut down
+[2017.01.06-16.01.44:560][822]LogExit: Transaction tracking system shut down
+[2017.01.06-16.01.46:626][822]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.06-16.01.46:627][822]LogExit: Object subsystem successfully closed.
+[2017.01.06-16.01.46:880][822]LogD3D11RHI: Shutdown
+[2017.01.06-16.01.46:884][822]LogD3D11RHI: CleanupD3DDevice
+[2017.01.06-16.01.47:094][822]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.06-16.01.47:835][822]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.01.06-16.01.47:835][822]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB10A5FF5-449A-179A-F302-338F8C991AA3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=0636ed074715a6528987088242ffb35f%7C4ce4a9e487ef46408105a210f5327efb%7C332cae6d-2768-4bae-971c-d1db598faa64&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.06-16.01.47:888][822]LogModuleManager: Shutting down and abandoning module MaterialEditor (242)
+[2017.01.06-16.01.47:893][822]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.01.06-16.01.47:899][822]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.01.06-16.01.47:920][822]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.01.06-16.01.47:920][822]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.01.06-16.01.47:920][822]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.01.06-16.01.47:948][822]LogDirectoryWatcher: A directory notification for 'L:/Unreal Engine 4/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.01.06-16.01.47:981][822]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.01.06-16.01.47:981][822]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.01.06-16.01.47:981][822]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.01.06-16.01.48:011][822]LogDirectoryWatcher: A directory notification for 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Collections/' was aborted.
+[2017.01.06-16.01.48:011][822]LogDirectoryWatcher: A directory notification for 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Developers/NeN/Collections/' was aborted.
+[2017.01.06-16.01.48:012][822]LogDirectoryWatcher: A directory notification for 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Collections/' was aborted.
+[2017.01.06-16.01.48:012][822]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.01.06-16.01.48:012][822]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.01.06-16.01.48:025][822]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.01.06-16.01.48:029][822]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.01.06-16.01.48:030][822]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.01.06-16.01.48:030][822]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.01.06-16.01.48:030][822]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.01.06-16.01.48:030][822]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.01.06-16.01.48:052][822]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.01.06-16.01.48:071][822]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.01.06-16.01.48:071][822]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.01.06-16.01.48:091][822]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.01.06-16.01.48:116][822]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.01.06-16.01.48:142][822]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.01.06-16.01.48:150][822]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.01.06-16.01.48:150][822]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.01.06-16.01.48:150][822]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.01.06-16.01.48:150][822]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.01.06-16.01.48:150][822]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.01.06-16.01.48:150][822]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.01.06-16.01.48:150][822]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.01.06-16.01.48:150][822]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.01.06-16.01.48:150][822]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.01.06-16.01.48:164][822]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.01.06-16.01.48:164][822]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.01.06-16.01.48:164][822]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.01.06-16.01.48:164][822]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.01.06-16.01.48:164][822]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.01.06-16.01.48:164][822]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.01.06-16.01.48:181][822]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.01.06-16.01.48:186][822]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.01.06-16.01.48:203][822]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.01.06-16.01.48:203][822]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.01.06-16.01.48:203][822]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.01.06-16.01.48:203][822]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.01.06-16.01.49:204][822]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.01.06-16.01.49:204][822]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.01.06-16.01.49:204][822]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.01.06-16.01.49:204][822]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.01.06-16.01.49:221][822]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.01.06-16.01.49:222][822]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.01.06-16.01.49:248][822]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.01.06-16.01.49:248][822]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.01.06-16.01.49:248][822]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.01.06-16.01.49:248][822]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.01.06-16.01.49:274][822]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.01.06-16.01.49:274][822]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.01.06-16.01.49:274][822]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.01.06-16.01.49:297][822]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.01.06-16.01.49:297][822]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.01.06-16.01.49:297][822]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.01.06-16.01.49:297][822]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.01.06-16.01.49:321][822]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.01.06-16.01.49:322][822]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.01.06-16.01.49:322][822]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.01.06-16.01.49:322][822]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.01.06-16.01.49:322][822]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.01.06-16.01.49:322][822]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.01.06-16.01.49:322][822]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.01.06-16.01.49:322][822]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.01.06-16.01.49:322][822]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.01.06-16.01.49:399][822]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.01.06-16.01.49:432][822]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.01.06-16.01.49:465][822]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.01.06-16.01.49:480][822]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.01.06-16.01.49:480][822]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.01.06-16.01.49:492][822]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.01.06-16.01.49:493][822]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.01.06-16.01.49:493][822]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.01.06-16.01.49:493][822]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.01.06-16.01.49:498][822]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.01.06-16.01.49:499][822]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.01.06-16.01.49:513][822]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.01.06-16.01.49:513][822]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.01.06-16.01.49:513][822]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.01.06-16.01.49:513][822]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.01.06-16.01.49:513][822]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.01.06-16.01.49:539][822]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.01.06-16.01.49:539][822]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.01.06-16.01.49:539][822]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.01.06-16.01.49:539][822]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.01.06-16.01.49:539][822]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.01.06-16.01.49:539][822]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.01.06-16.01.49:539][822]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.01.06-16.01.49:539][822]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.01.06-16.01.49:569][822]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.01.06-16.01.49:576][822]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.01.06-16.01.49:576][822]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.01.06-16.01.49:592][822]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.01.06-16.01.49:592][822]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.01.06-16.01.49:592][822]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.01.06-16.01.49:592][822]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.01.06-16.01.49:592][822]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.01.06-16.01.49:612][822]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.01.06-16.01.49:644][822]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.01.06-16.01.49:644][822]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.01.06-16.01.49:644][822]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.01.06-16.01.49:644][822]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.01.06-16.01.49:644][822]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.01.06-16.01.49:671][822]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.01.06-16.01.49:671][822]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.01.06-16.01.49:708][822]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.01.06-16.01.49:708][822]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.01.06-16.01.49:708][822]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.01.06-16.01.49:708][822]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.01.06-16.01.49:720][822]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.01.06-16.01.49:737][822]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.01.06-16.01.49:737][822]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.01.06-16.01.49:737][822]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.01.06-16.01.49:737][822]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.01.06-16.01.49:745][822]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.01.06-16.01.49:756][822]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.01.06-16.01.49:769][822]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.01.06-16.01.49:769][822]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.01.06-16.01.49:796][822]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.01.06-16.01.49:796][822]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.01.06-16.01.49:827][822]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.01.06-16.01.49:848][822]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.01.06-16.01.49:849][822]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.01.06-16.01.49:871][822]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.01.06-16.01.49:871][822]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.01.06-16.01.49:891][822]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.01.06-16.01.49:891][822]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.01.06-16.01.49:892][822]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.01.06-16.01.49:892][822]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.01.06-16.01.49:913][822]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.01.06-16.01.49:913][822]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.01.06-16.01.49:942][822]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.01.06-16.01.49:944][822]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.01.06-16.01.49:958][822]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.01.06-16.01.50:059][822]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.01.06-16.01.50:185][822]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.01.06-16.01.50:185][822]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.01.06-16.01.50:207][822]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.01.06-16.01.50:217][822]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.01.06-16.01.50:246][822]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.01.06-16.01.50:246][822]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.01.06-16.01.50:263][822]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.01.06-16.01.50:263][822]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.01.06-16.01.50:263][822]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.01.06-16.01.50:263][822]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.01.06-16.01.50:302][822]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.01.06-16.01.50:320][822]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.01.06-16.01.50:339][822]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.01.06-16.01.50:340][822]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.01.06-16.01.50:340][822]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.01.06-16.01.50:340][822]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.01.06-16.01.50:354][822]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.01.06-16.01.50:354][822]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.01.06-16.01.50:354][822]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.01.06-16.01.50:354][822]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.01.06-16.01.50:354][822]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.01.06-16.01.50:371][822]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.01.06-16.01.50:371][822]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.01.06-16.01.50:371][822]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.01.06-16.01.50:371][822]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.01.06-16.01.50:371][822]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.01.06-16.01.50:371][822]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.01.06-16.01.50:371][822]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.06-16.01.50:372][822]LogDirectoryWatcher: A directory notification for 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/' was aborted.
+[2017.01.06-16.01.50:372][822]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.06-16.01.50:376][822]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.01.06-16.01.50:617][822]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.01.06-16.01.50:617][822]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.01.06-16.01.50:617][822]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.01.06-16.01.50:617][822]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.01.06-16.01.50:617][822]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.01.06-16.01.50:617][822]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.01.06-16.01.50:617][822]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.01.06-16.01.50:617][822]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.01.06-16.01.50:662][822]LogDerivedDataCache: Shutdown
+[2017.01.06-16.01.50:662][822]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.01.06-16.01.50:662][822]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.01.06-16.01.50:662][822]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.01.06-16.01.50:662][822]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.01.06-16.01.50:662][822]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.01.06-16.01.50:662][822]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.01.06-16.01.50:662][822]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.01.06-16.01.50:662][822]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.01.06-16.01.50:663][822]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.01.06-16.01.50:663][822]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.01.06-16.01.50:663][822]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.01.06-16.01.50:663][822]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.01.06-16.01.50:679][822]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.01.06-16.01.50:699][822]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.01.06-16.01.50:699][822]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.01.06-16.01.50:700][822]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.01.06-16.01.50:701][822]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.06-16.01.50:701][822]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.06-16.01.50:701][822]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.06-16.01.50:701][822]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.06-16.01.50:701][822]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.06-16.01.50:721][822]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.01.06-16.01.50:721][822]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.01.06-16.01.50:721][822]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.01.06-16.01.50:721][822]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.06-16.01.50:749][822]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.01.06-16.01.50:752][822]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.06-16.01.50:752][822]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.06-16.01.50:752][822]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.06-16.01.50:752][822]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.06-16.01.50:752][822]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.06-16.01.50:752][822]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.06-16.01.50:761][822]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.06-16.01.50:785][822]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.06-16.01.50:785][822]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.06-16.01.50:796][822]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.06-16.01.50:796][822]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.06-16.01.50:796][822]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.06-16.01.50:796][822]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.06-16.01.50:796][822]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.06-16.01.50:796][822]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.06-16.01.50:796][822]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.06-16.01.50:798][822]LogExit: Exiting.
+[2017.01.06-16.01.50:823][822]Log file closed, 01/06/17 17:01:50
