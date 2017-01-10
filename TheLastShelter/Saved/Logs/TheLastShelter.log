@@ -2991,3 +2991,707 @@ LogInit: Object subsystem initialized
 [2017.01.10-14.00.45:011][464]LogProperty:Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'cp_Slot_Continue_1.CanvasPanelSlot_24''
 [2017.01.10-14.02.17:241][298]BlueprintLog: New page: Compile MainMenu
 [2017.01.10-14.02.18:057][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-14.02.18:150][309]LogSavePackage: Save=85.73ms
+[2017.01.10-14.02.18:150][309]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu9EDBB2C744AC462869553D8C4A6142CE.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-14.02.18:154][309]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-14.03.42:229][977]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-14.03.43:055][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-14.03.43:140][  8]LogSavePackage: Save=80.27ms
+[2017.01.10-14.03.43:140][  8]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu3CE17FD34B6F7E5F8E499EA84D913449.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-14.03.43:142][  8]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-14.05.08:689][887]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-14.05.09:374][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-14.05.09:460][901]LogSavePackage: Save=81.27ms
+[2017.01.10-14.05.09:460][901]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenuC15AE1104DE529F1DACE1AB7813CF77F.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-14.05.09:463][901]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-14.06.32:882][955]LogEditorTransaction: Undo Delete current selection
+[2017.01.10-14.07.38:498][517]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-14.07.39:474][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-14.07.39:563][557]LogSavePackage: Save=82.28ms
+[2017.01.10-14.07.39:563][557]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu253E3550477BEF3EF0B74F907C9AA237.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-14.07.39:565][557]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-14.08.15:570][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-14.08.15:655][380]LogSavePackage: Save=79.89ms
+[2017.01.10-14.08.15:655][380]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu82C6CBAE4AFFCA8A3263B885B51D92AE.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-14.08.15:658][380]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-14.10.10:544][ 80]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-14.10.11:164][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-14.10.11:253][ 99]LogSavePackage: Save=84.47ms
+[2017.01.10-14.10.11:253][ 99]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu973597C4479C337C82B26B9002D54AFE.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-14.10.11:255][ 99]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-14.20.12:456][637]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-14.20.13:076][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-14.20.13:167][660]LogSavePackage: Save=84.47ms
+[2017.01.10-14.20.13:167][660]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu4F7879BF4E37F43E000308B25D0D6AE3.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-14.20.13:169][660]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-14.20.58:358][211]LogMetaData: Removing '/Game/SaveGames/Slot2.SKEL_Slot2_C' ref from Metadata '/Game/SaveGames/Slot1_2.PackageMetaData'
+[2017.01.10-14.20.58:358][211]LogMetaData: Removing '/Game/SaveGames/Slot2.Slot2_C' ref from Metadata '/Game/SaveGames/Slot1_2.PackageMetaData'
+[2017.01.10-14.20.58:394][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/Slot2" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/Slot2.uasset" SILENT=true
+[2017.01.10-14.20.58:398][211]LogSavePackage: Save=2.94ms
+[2017.01.10-14.20.58:398][211]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Slot279D88B494B1573C8DD1A69AA6EACC199.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/Slot2.uasset'
+[2017.01.10-14.20.58:400][211]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/Slot2.uasset
+[2017.01.10-14.21.14:827][726]LogMetaData: Removing '/Game/SaveGames/Slot3.SKEL_Slot3_C' ref from Metadata '/Game/SaveGames/Slot2_2.PackageMetaData'
+[2017.01.10-14.21.14:827][726]LogMetaData: Removing '/Game/SaveGames/Slot3.Slot3_C' ref from Metadata '/Game/SaveGames/Slot2_2.PackageMetaData'
+[2017.01.10-14.21.14:848][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/Slot3" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/Slot3.uasset" SILENT=true
+[2017.01.10-14.21.14:854][726]LogSavePackage: Save=3.21ms
+[2017.01.10-14.21.14:854][726]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Slot384A6B3D44AF64D6DA744EAA1F5FF6465.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/Slot3.uasset'
+[2017.01.10-14.21.14:856][726]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/Slot3.uasset
+[2017.01.10-14.21.19:782][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/Slot1" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/Slot1.uasset" SILENT=true
+[2017.01.10-14.21.19:787][180]LogSavePackage: Save=2.69ms
+[2017.01.10-14.21.19:787][180]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Slot16B9F8C024E3F258B9141689C5F2198C5.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/Slot1.uasset'
+[2017.01.10-14.21.19:789][180]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/Slot1.uasset
+[2017.01.10-14.24.10:416][958]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.01.10-14.30.14:613][711]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.024
+[2017.01.10-14.30.14:615][711]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SaveGames/Slot1] ([1] browsable assets)...
+[2017.01.10-14.30.14:615][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/SaveGames/Slot1]
+[2017.01.10-14.30.14:615][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/Slot1" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/SaveGames/Slot1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.01.10-14.30.14:625][711]LogSavePackage: Save=4.19ms
+[2017.01.10-14.30.14:625][711]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Slot1_Auto1ABBB0C0849EBF622655BAB938DF78863.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/SaveGames/Slot1_Auto1.uasset'
+[2017.01.10-14.30.14:626][711]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/SaveGames/Slot1_Auto1.uasset
+[2017.01.10-14.30.14:626][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/Slot1_2" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/SaveGames/Slot1_2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.01.10-14.30.14:629][711]LogSavePackage: Save=1.19ms
+[2017.01.10-14.30.14:629][711]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Slot1_2_Auto1CD5FBEFF4C01AD0BF8C63B94A3161435.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/SaveGames/Slot1_2_Auto1.uasset'
+[2017.01.10-14.30.14:630][711]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/SaveGames/Slot1_2_Auto1.uasset
+[2017.01.10-14.30.14:631][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/Slot2_2" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/SaveGames/Slot2_2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.01.10-14.30.14:885][711]LogSavePackage: Save=1.55ms
+[2017.01.10-14.30.14:885][711]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Slot2_2_Auto1A3978C32476AEB4BED6F83A3B4C72303.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/SaveGames/Slot2_2_Auto1.uasset'
+[2017.01.10-14.30.14:887][711]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/SaveGames/Slot2_2_Auto1.uasset
+[2017.01.10-14.30.14:887][711]LogFileHelpers: Auto-saving content packages took 0.273
+[2017.01.10-16.35.21:052][903]BlueprintLog: New page: Compile Slot1
+[2017.01.10-16.35.32:529][601]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-16.35.34:450][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-16.35.34:627][705]LogSavePackage: Save=115.79ms
+[2017.01.10-16.35.34:627][705]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu96E56C644E216E3C755BB79B10BCE4B3.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-16.35.34:630][705]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-16.35.57:515][528]LogMetaData: Removing '/Game/SaveGames/SlotsSaveGame.SKEL_SlotsSaveGame_C' ref from Metadata '/Game/SaveGames/Slot1.PackageMetaData'
+[2017.01.10-16.35.57:515][528]LogMetaData: Removing '/Game/SaveGames/SlotsSaveGame.SlotsSaveGame_C' ref from Metadata '/Game/SaveGames/Slot1.PackageMetaData'
+[2017.01.10-16.35.57:536][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/SlotsSaveGame" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset" SILENT=true
+[2017.01.10-16.35.57:542][528]LogSavePackage: Save=3.13ms
+[2017.01.10-16.35.57:542][528]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/SlotsSaveGame923CF13940BBAA408FC50783B1771ED2.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset'
+[2017.01.10-16.35.57:544][528]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset
+[2017.01.10-16.38.45:793][200]LogClass:Warning: Type mismatch in NewVar_0 of SKEL_SlotsSaveGame_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2017.01.10-16.39.08:227][806]BlueprintLog: New page: Compile SlotsSaveGame
+[2017.01.10-16.41.22:176][628]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.030
+[2017.01.10-16.41.22:179][628]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SaveGames/SlotsSaveGame] ([1] browsable assets)...
+[2017.01.10-16.41.22:179][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/SaveGames/SlotsSaveGame]
+[2017.01.10-16.41.22:179][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/SlotsSaveGame" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/SaveGames/SlotsSaveGame_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.01.10-16.41.22:192][628]LogSavePackage: Save=4.97ms
+[2017.01.10-16.41.22:192][628]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/SlotsSaveGame_Auto2E8E3E4E74D22C22250B29BB5552DEA1F.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/SaveGames/SlotsSaveGame_Auto2.uasset'
+[2017.01.10-16.41.22:193][628]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/SaveGames/SlotsSaveGame_Auto2.uasset
+[2017.01.10-16.41.22:193][628]LogFileHelpers: Auto-saving content packages took 0.016
+[2017.01.10-16.48.13:042][688]BlueprintLog: New page: Compile SlotsSaveGame
+[2017.01.10-16.48.13:678][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/SlotsSaveGame" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset" SILENT=true
+[2017.01.10-16.48.13:687][725]LogSavePackage: Save=3.17ms
+[2017.01.10-16.48.13:687][725]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/SlotsSaveGame1D547A9B4F52F281BA18EDAADAF2BFBB.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset'
+[2017.01.10-16.48.13:690][725]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset
+[2017.01.10-16.51.22:312][534]BlueprintLog: New page: Compile SlotsSaveGame
+[2017.01.10-16.51.23:506][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/SlotsSaveGame" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset" SILENT=true
+[2017.01.10-16.51.23:514][606]LogSavePackage: Save=3.46ms
+[2017.01.10-16.51.23:514][606]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/SlotsSaveGameC39FC1164E540E117B7C37B4AF3EEFD1.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset'
+[2017.01.10-16.51.23:516][606]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset
+[2017.01.10-16.53.08:135][970]BlueprintLog: New page: Compile SlotsSaveGame
+[2017.01.10-16.53.08:845][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/SlotsSaveGame" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset" SILENT=true
+[2017.01.10-16.53.08:854][  6]LogSavePackage: Save=4.11ms
+[2017.01.10-16.53.08:854][  6]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/SlotsSaveGameC12BA9514379DAAABFC94DA480D7E4A9.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset'
+[2017.01.10-16.53.08:856][  6]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset
+[2017.01.10-16.55.09:918][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/SlotsSaveGame" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset" SILENT=true
+[2017.01.10-16.55.09:928][292]LogSavePackage: Save=4.16ms
+[2017.01.10-16.55.09:928][292]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/SlotsSaveGame40B28F18434E25CAB3492FA1DA36784F.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset'
+[2017.01.10-16.55.09:929][292]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset
+[2017.01.10-16.58.10:492][712]BlueprintLog: New page: Compile SlotsSaveGame
+[2017.01.10-16.58.11:094][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/SlotsSaveGame" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset" SILENT=true
+[2017.01.10-16.58.11:103][746]LogSavePackage: Save=4.09ms
+[2017.01.10-16.58.11:103][746]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/SlotsSaveGame90E023A3476071E7B5C5279CD46CEF6D.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset'
+[2017.01.10-16.58.11:105][746]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset
+[2017.01.10-16.58.56:934][601]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-17.04.10:322][ 73]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-17.04.10:868][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-17.04.10:966][ 89]LogSavePackage: Save=90.95ms
+[2017.01.10-17.04.10:966][ 89]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenuF37243E84038627E2F3E36A67D9420B9.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-17.04.10:969][ 89]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-17.05.08:737][997]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.024
+[2017.01.10-17.05.08:739][997]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/MainMenu] ([1] browsable assets)...
+[2017.01.10-17.05.08:739][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/MainMenu]
+[2017.01.10-17.05.08:740][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/HUD/MainMenu_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.01.10-17.05.08:835][997]LogSavePackage: Save=90.01ms
+[2017.01.10-17.05.08:835][997]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu_Auto3F2F528B34ACEC93824CECEAA49512EBD.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/HUD/MainMenu_Auto3.uasset'
+[2017.01.10-17.05.08:836][997]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/HUD/MainMenu_Auto3.uasset
+[2017.01.10-17.05.08:836][997]LogFileHelpers: Auto-saving content packages took 0.098
+[2017.01.10-17.05.11:562][158]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-17.05.13:102][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-17.05.13:195][236]LogSavePackage: Save=88.25ms
+[2017.01.10-17.05.13:195][236]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu988FF55E40219A18A4EB9EAA2AD6F6F6.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-17.05.13:198][236]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-17.11.59:843][750]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-17.11.59:877][750]LogBlueprint:Error: [Compiler MainMenu] Error Default value '' for  SaveGameSlot  is invalid: 'Array inputs (like 'Save Game Slot') must have an input wired into them (try connecting a MakeArray node).'
+[2017.01.10-17.12.00:149][750]BlueprintEditorCompileResults:Error: Error Default value '' for  SaveGameSlot  is invalid: 'Array inputs (like 'Save Game Slot') must have an input wired into them (try connecting a MakeArray node).'
+[2017.01.10-17.12.00:149][750]LogBlueprint:Warning: [Compiler MainMenu] Warning [2981.64] Compile of MainMenu failed. 1 Fatal Issue(s) 0 Warning(s) [in 306 ms] (/Game/HUD/MainMenu.MainMenu)
+[2017.01.10-17.12.00:736][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-17.12.00:828][782]LogSavePackage: Save=86.24ms
+[2017.01.10-17.12.00:828][782]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenuB7E188C5430F267FA388B08DB8FADF89.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-17.12.00:831][782]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-17.12.03:929][972]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-17.12.04:681][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-17.12.04:774][  7]LogSavePackage: Save=88.17ms
+[2017.01.10-17.12.04:775][  7]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenuBA7CC4EF45F813BA5ABFACBC45EE17C1.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-17.12.04:777][  7]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-17.17.32:916][729]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-17.17.33:789][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-17.17.33:885][768]LogSavePackage: Save=89.58ms
+[2017.01.10-17.17.33:885][768]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu163D901E45689B829A44E9AE51FE28FF.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-17.17.33:887][768]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-17.23.28:886][657]BlueprintLog: New page: Compile SlotsSaveGame
+[2017.01.10-17.23.29:926][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/SlotsSaveGame" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset" SILENT=true
+[2017.01.10-17.23.29:936][704]LogSavePackage: Save=3.77ms
+[2017.01.10-17.23.29:936][704]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/SlotsSaveGameA51BE489453C1959C4B583844A0564CD.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset'
+[2017.01.10-17.23.29:939][704]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/SlotsSaveGame.uasset
+[2017.01.10-17.26.48:968][117]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-17.26.49:610][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-17.26.49:710][139]LogSavePackage: Save=92.81ms
+[2017.01.10-17.26.49:710][139]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu0B726F2D4AE01C73D86684B611C97951.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-17.26.49:712][139]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-17.27.55:601][605]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-17.27.56:516][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-17.27.56:615][627]LogSavePackage: Save=94.02ms
+[2017.01.10-17.27.56:615][627]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu4643E0C3457F41CC819B6D9FAF407D36.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-17.27.56:618][627]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-17.30.33:725][546]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-17.30.36:534][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-17.30.36:635][687]LogSavePackage: Save=96.07ms
+[2017.01.10-17.30.36:635][687]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu9896593E4DB72192100D899C1B8F82DF.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-17.30.36:638][687]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-17.34.14:874][434]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-17.34.15:452][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-17.34.15:569][450]LogSavePackage: Save=109.40ms
+[2017.01.10-17.34.15:570][450]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenuDF8E0F19491E4634566CAF8E05C7456C.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-17.34.15:572][450]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-17.35.19:896][954]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.025
+[2017.01.10-17.35.19:899][954]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/MainMenu] ([1] browsable assets)...
+[2017.01.10-17.35.19:899][954]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/MainMenu]
+[2017.01.10-17.35.19:899][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/HUD/MainMenu_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.01.10-17.35.20:003][954]LogSavePackage: Save=99.48ms
+[2017.01.10-17.35.20:003][954]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu_Auto4EEAE8E8F4446848EE36C9A90E8B42D59.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/HUD/MainMenu_Auto4.uasset'
+[2017.01.10-17.35.20:005][954]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/HUD/MainMenu_Auto4.uasset
+[2017.01.10-17.35.20:005][954]LogFileHelpers: Auto-saving content packages took 0.107
+[2017.01.10-17.45.41:021][115]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-17.45.41:725][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-17.45.42:048][138]LogSavePackage: Save=315.36ms
+[2017.01.10-17.45.42:048][138]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu969025574302CF0CE42F6F810E09CA70.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-17.45.42:051][138]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-17.49.32:940][984]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-17.49.33:770][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-17.49.33:903][ 11]LogSavePackage: Save=128.27ms
+[2017.01.10-17.49.33:903][ 11]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenuC805186F4DAD7BDE20EC9382384E2026.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-17.49.33:906][ 11]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-17.49.44:457][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-17.49.44:586][376]LogSavePackage: Save=123.57ms
+[2017.01.10-17.49.44:586][376]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenuC652096047EE4B6252FA5CABFEBEB75C.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-17.49.44:589][376]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-17.49.45:375][404]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-17.50.55:447][909]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.025
+[2017.01.10-17.50.55:450][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/MainMenu] ([1] browsable assets)...
+[2017.01.10-17.50.55:450][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/MainMenu]
+[2017.01.10-17.50.55:450][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/HUD/MainMenu_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2017.01.10-17.50.55:581][909]LogSavePackage: Save=123.36ms
+[2017.01.10-17.50.55:581][909]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu_Auto5B52EDB9B4FC26BD30E84609968840903.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/HUD/MainMenu_Auto5.uasset'
+[2017.01.10-17.50.55:583][909]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/HUD/MainMenu_Auto5.uasset
+[2017.01.10-17.50.55:583][909]LogFileHelpers: Auto-saving content packages took 0.134
+[2017.01.10-17.59.31:735][775]LogEditorTransaction: Undo Paste clipboard contents
+[2017.01.10-18.00.00:440][ 18]LogEditorTransaction: Undo Move Node
+[2017.01.10-18.05.38:890][687]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.073
+[2017.01.10-18.05.38:893][687]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/MainMenu] ([1] browsable assets)...
+[2017.01.10-18.05.38:893][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/MainMenu]
+[2017.01.10-18.05.38:893][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/HUD/MainMenu_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2017.01.10-18.05.39:063][687]LogSavePackage: Save=163.64ms
+[2017.01.10-18.05.39:064][687]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu_Auto6CFA0237D429BE2B74EF3CEA6731B2B0D.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/HUD/MainMenu_Auto6.uasset'
+[2017.01.10-18.05.39:065][687]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Autosaves/Game/HUD/MainMenu_Auto6.uasset
+[2017.01.10-18.05.39:065][687]LogFileHelpers: Auto-saving content packages took 0.174
+[2017.01.10-18.05.43:362][911]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-18.06.43:008][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-18.06.43:177][ 64]LogSavePackage: Save=164.19ms
+[2017.01.10-18.06.43:177][ 64]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenuC796B9CA434AD82403DB24AD72160157.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-18.06.43:203][ 64]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-18.09.52:918][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-18.09.53:084][286]LogSavePackage: Save=160.05ms
+[2017.01.10-18.09.53:084][286]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu4181F36B4635AFE95630D3B0D0E3CEDB.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-18.09.53:087][286]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-18.11.03:951][732]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-18.11.04:775][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-18.11.04:942][747]LogSavePackage: Save=159.76ms
+[2017.01.10-18.11.04:942][747]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenuA87CFAF64AAF009D8CA229AA478A6226.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-18.11.04:945][747]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-18.11.22:835][634]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.10-18.11.25:109][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/Slot1_2" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/Slot1_2.uasset" SILENT=true
+[2017.01.10-18.11.25:114][634]LogSavePackage: Save=2.05ms
+[2017.01.10-18.11.25:114][634]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Slot1_2DC38A0584E7DED99B764D7A32E7BED41.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/Slot1_2.uasset'
+[2017.01.10-18.11.25:117][634]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/Slot1_2.uasset
+[2017.01.10-18.11.25:117][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGames/Slot2_2" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/Slot2_2.uasset" SILENT=true
+[2017.01.10-18.11.25:120][634]LogSavePackage: Save=1.23ms
+[2017.01.10-18.11.25:120][634]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Slot2_2420816B840B673CAC8A5A4A3DD62B752.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/Slot2_2.uasset'
+[2017.01.10-18.11.25:122][634]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/SaveGames/Slot2_2.uasset
+[2017.01.10-18.11.25:169][634]Cmd: MAP LOAD FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Maps/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.10-18.11.25:170][634]LightingResults: New page: Lighting Build
+[2017.01.10-18.11.25:212][634]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2017.01.10-18.11.25:258][634]MapCheck: New page: Map Check
+[2017.01.10-18.11.25:258][634]LightingResults: New page: Lighting Build
+[2017.01.10-18.11.25:772][634]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.10-18.11.25:806][634]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.10-18.11.26:005][634]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 198.857ms to complete.
+[2017.01.10-18.11.26:009][634]LogFileHelpers: Loading map 'MainMenuLevel' took 0.887
+[2017.01.10-18.11.28:965][905]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.10-18.11.29:004][905]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.11.29:023][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-18.11.29:139][905]PIE: New page: PIE session: MainMenuLevel (Jan 10, 2017, 8:11:29 PM)
+[2017.01.10-18.11.29:139][905]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.10-18.11.29:167][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027359s)
+[2017.01.10-18.11.29:168][905]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.10-18.11.29:179][905]LogPlayLevel: PIE: World Init took: (0.012250s)
+[2017.01.10-18.11.29:187][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.047609s)
+[2017.01.10-18.11.29:266][905]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.10-18.11.29:283][905]LogInit: FAudioDevice initialized.
+[2017.01.10-18.11.29:586][905]LogLoad: Game class is 'GameModeBase'
+[2017.01.10-18.11.29:589][905]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.10-19.11.29
+[2017.01.10-18.11.29:614][905]LogWorld: Bringing up level for play took: 0.021977
+[2017.01.10-18.11.31:958][905]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2017.01.10-18.11.32:227][905]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 3.114
+[2017.01.10-18.11.32:227][905]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.11.43:057][849]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.11.43:264][849]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.11.44:320][946]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.10-18.11.44:343][946]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.11.44:343][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-18.11.44:343][946]PIE: New page: PIE session: MainMenuLevel (Jan 10, 2017, 8:11:44 PM)
+[2017.01.10-18.11.44:343][946]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.10-18.11.44:345][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001407s)
+[2017.01.10-18.11.44:345][946]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.10-18.11.44:346][946]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2017.01.10-18.11.44:346][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002684s)
+[2017.01.10-18.11.44:391][946]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.10-18.11.44:404][946]LogInit: FAudioDevice initialized.
+[2017.01.10-18.11.44:435][946]LogLoad: Game class is 'GameModeBase'
+[2017.01.10-18.11.44:439][946]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.10-19.11.44
+[2017.01.10-18.11.44:439][946]LogWorld: Bringing up level for play took: 0.001335
+[2017.01.10-18.11.44:444][946]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel -0.668
+[2017.01.10-18.11.44:444][946]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.11.49:083][377]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.11.49:122][377]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.12.11:455][301]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-18.12.12:254][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-18.12.12:418][317]LogSavePackage: Save=158.99ms
+[2017.01.10-18.12.12:418][317]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu0DC45E6340BA733473A2EB88458B1041.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-18.12.12:421][317]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-18.12.15:347][496]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.10-18.12.15:369][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.12.15:369][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-18.12.15:370][496]PIE: New page: PIE session: MainMenuLevel (Jan 10, 2017, 8:12:15 PM)
+[2017.01.10-18.12.15:370][496]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.10-18.12.15:371][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001417s)
+[2017.01.10-18.12.15:372][496]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.10-18.12.15:372][496]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2017.01.10-18.12.15:372][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002547s)
+[2017.01.10-18.12.15:419][496]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.10-18.12.15:433][496]LogInit: FAudioDevice initialized.
+[2017.01.10-18.12.15:464][496]LogLoad: Game class is 'GameModeBase'
+[2017.01.10-18.12.15:468][496]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.10-19.12.15
+[2017.01.10-18.12.15:468][496]LogWorld: Bringing up level for play took: 0.001320
+[2017.01.10-18.12.15:473][496]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 0.36
+[2017.01.10-18.12.15:473][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.12.27:303][582]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.12.27:340][582]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.12.45:504][468]LogEditorTransaction: Undo Move Widget
+[2017.01.10-18.12.55:002][771]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-18.12.55:736][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-18.12.55:901][784]LogSavePackage: Save=158.11ms
+[2017.01.10-18.12.55:901][784]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenuBC4EC70D461FD395EE3C97BBB0A52189.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-18.12.55:903][784]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-18.12.59:173][ 43]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.10-18.12.59:196][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.12.59:196][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-18.12.59:196][ 43]PIE: New page: PIE session: MainMenuLevel (Jan 10, 2017, 8:12:59 PM)
+[2017.01.10-18.12.59:196][ 43]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.10-18.12.59:198][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001413s)
+[2017.01.10-18.12.59:198][ 43]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.10-18.12.59:198][ 43]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2017.01.10-18.12.59:199][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002517s)
+[2017.01.10-18.12.59:244][ 43]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.10-18.12.59:258][ 43]LogInit: FAudioDevice initialized.
+[2017.01.10-18.12.59:293][ 43]LogLoad: Game class is 'GameModeBase'
+[2017.01.10-18.12.59:297][ 43]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.10-19.12.59
+[2017.01.10-18.12.59:297][ 43]LogWorld: Bringing up level for play took: 0.001544
+[2017.01.10-18.12.59:302][ 43]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 0.189
+[2017.01.10-18.12.59:302][ 43]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.13.06:106][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.13.06:145][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.14.55:582][929]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-18.14.56:602][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-18.14.56:765][954]LogSavePackage: Save=157.22ms
+[2017.01.10-18.14.56:765][954]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenuA037E4B6446712BE6723A0A8A741F730.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-18.14.56:767][954]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-18.15.00:399][194]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.10-18.15.00:421][194]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.15.00:421][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-18.15.00:421][194]PIE: New page: PIE session: MainMenuLevel (Jan 10, 2017, 8:15:00 PM)
+[2017.01.10-18.15.00:421][194]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.10-18.15.00:423][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001418s)
+[2017.01.10-18.15.00:424][194]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.10-18.15.00:424][194]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2017.01.10-18.15.00:424][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002657s)
+[2017.01.10-18.15.00:470][194]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.10-18.15.00:484][194]LogInit: FAudioDevice initialized.
+[2017.01.10-18.15.00:518][194]LogLoad: Game class is 'GameModeBase'
+[2017.01.10-18.15.00:521][194]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.10-19.15.00
+[2017.01.10-18.15.00:522][194]LogWorld: Bringing up level for play took: 0.001350
+[2017.01.10-18.15.00:527][194]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel -0.586
+[2017.01.10-18.15.00:527][194]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.15.15:426][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.15.15:464][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.16.08:835][723]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-18.16.09:636][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-18.16.09:800][754]LogSavePackage: Save=156.60ms
+[2017.01.10-18.16.09:800][754]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenuA84A64C44054A17EAA2CF3A89A1B7315.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-18.16.09:802][754]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-18.16.35:613][194]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-18.16.36:213][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-18.16.36:376][212]LogSavePackage: Save=156.79ms
+[2017.01.10-18.16.36:376][212]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenuC5CB083C43F1830698A3F4B7C45CBEDB.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-18.16.36:378][212]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-18.16.39:224][449]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.10-18.16.39:246][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.16.39:246][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-18.16.39:247][449]PIE: New page: PIE session: MainMenuLevel (Jan 10, 2017, 8:16:39 PM)
+[2017.01.10-18.16.39:247][449]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.10-18.16.39:248][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001409s)
+[2017.01.10-18.16.39:249][449]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.10-18.16.39:249][449]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2017.01.10-18.16.39:249][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002533s)
+[2017.01.10-18.16.39:296][449]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.10-18.16.39:309][449]LogInit: FAudioDevice initialized.
+[2017.01.10-18.16.39:346][449]LogLoad: Game class is 'GameModeBase'
+[2017.01.10-18.16.39:349][449]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.10-19.16.39
+[2017.01.10-18.16.39:349][449]LogWorld: Bringing up level for play took: 0.001606
+[2017.01.10-18.16.39:566][449]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 0.454
+[2017.01.10-18.16.39:567][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.16.54:946][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.16.54:984][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.17.23:982][695]Cmd: MAP LOAD FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Maps/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.10-18.17.23:983][695]LightingResults: New page: Lighting Build
+[2017.01.10-18.17.23:984][695]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2017.01.10-18.17.23:984][695]MapCheck: New page: Map Check
+[2017.01.10-18.17.23:984][695]LightingResults: New page: Lighting Build
+[2017.01.10-18.17.24:048][695]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.10-18.17.24:129][695]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.10-18.17.24:154][695]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.10-18.17.24:246][695]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 92.115ms to complete.
+[2017.01.10-18.17.24:247][695]LogFileHelpers: Loading map 'MainMenuLevel' took 0.267
+[2017.01.10-18.18.21:326][419]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-18.18.21:987][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-18.18.22:149][441]LogSavePackage: Save=156.18ms
+[2017.01.10-18.18.22:149][441]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenu7791986942713D60E0E9D2AD182495DE.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-18.18.22:152][441]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-18.19.43:375][997]BlueprintLog: New page: Compile MainMenu
+[2017.01.10-18.19.44:154][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.10-18.19.44:321][ 23]LogSavePackage: Save=161.27ms
+[2017.01.10-18.19.44:321][ 23]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/MainMenuB5C3C21A4BC98859967E7A8885744CC7.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.10-18.19.44:323][ 23]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.10-18.19.47:213][271]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.10-18.19.47:412][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.19.47:412][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-18.19.47:412][271]PIE: New page: PIE session: MainMenuLevel (Jan 10, 2017, 8:19:47 PM)
+[2017.01.10-18.19.47:412][271]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.10-18.19.47:414][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001518s)
+[2017.01.10-18.19.47:414][271]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.10-18.19.47:415][271]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2017.01.10-18.19.47:415][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003016s)
+[2017.01.10-18.19.47:462][271]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.10-18.19.47:476][271]LogInit: FAudioDevice initialized.
+[2017.01.10-18.19.47:510][271]LogLoad: Game class is 'GameModeBase'
+[2017.01.10-18.19.47:513][271]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.10-19.19.47
+[2017.01.10-18.19.47:514][271]LogWorld: Bringing up level for play took: 0.001390
+[2017.01.10-18.19.47:519][271]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 0.407
+[2017.01.10-18.19.47:519][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.20.07:209][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.20.07:245][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.20.08:913][327]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.10-18.20.08:934][327]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.20.08:935][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.10-18.20.08:935][327]PIE: New page: PIE session: MainMenuLevel (Jan 10, 2017, 8:20:08 PM)
+[2017.01.10-18.20.08:935][327]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.10-18.20.08:936][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001379s)
+[2017.01.10-18.20.08:937][327]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.10-18.20.08:937][327]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2017.01.10-18.20.08:937][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002456s)
+[2017.01.10-18.20.08:981][327]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.10-18.20.08:994][327]LogInit: FAudioDevice initialized.
+[2017.01.10-18.20.09:027][327]LogLoad: Game class is 'GameModeBase'
+[2017.01.10-18.20.09:030][327]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.10-19.20.09
+[2017.01.10-18.20.09:030][327]LogWorld: Bringing up level for play took: 0.001383
+[2017.01.10-18.20.09:035][327]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel -0.077
+[2017.01.10-18.20.09:036][327]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.20.48:478][888]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.10-18.20.48:584][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.20.48:616][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.10-18.20.48:878][889]Cmd: QUIT_EDITOR
+[2017.01.10-18.20.49:882][889]LogExit: Preparing to exit.
+[2017.01.10-18.20.52:882][889]LogExit: Editor shut down
+[2017.01.10-18.20.52:884][889]LogExit: Transaction tracking system shut down
+[2017.01.10-18.20.58:678][889]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.10-18.20.58:682][889]LogExit: Object subsystem successfully closed.
+[2017.01.10-18.20.58:866][889]LogD3D11RHI: Shutdown
+[2017.01.10-18.20.58:869][889]LogD3D11RHI: CleanupD3DDevice
+[2017.01.10-18.20.59:171][889]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.10-18.21.00:667][889]LogHttp:Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.01.10-18.21.00:667][889]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB6A99B22-461C-2C2E-04FA-BFB7BF1F730E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=0636ed074715a6528987088242ffb35f%7C4ce4a9e487ef46408105a210f5327efb%7C332cae6d-2768-4bae-971c-d1db598faa64&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.10-18.21.00:667][889]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB6A99B22-461C-2C2E-04FA-BFB7BF1F730E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=0636ed074715a6528987088242ffb35f%7C4ce4a9e487ef46408105a210f5327efb%7C332cae6d-2768-4bae-971c-d1db598faa64&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.10-18.21.00:819][889]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (245)
+[2017.01.10-18.21.00:844][889]LogModuleManager: Shutting down and abandoning module SequencerWidgets (244)
+[2017.01.10-18.21.00:844][889]LogModuleManager: Shutting down and abandoning module BlueprintGraph (243)
+[2017.01.10-18.21.00:844][889]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (242)
+[2017.01.10-18.21.00:861][889]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.01.10-18.21.00:868][889]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.01.10-18.21.00:894][889]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.01.10-18.21.00:940][889]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.01.10-18.21.00:941][889]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.01.10-18.21.00:958][889]LogDirectoryWatcher: A directory notification for 'L:/Unreal Engine 4/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.01.10-18.21.00:968][889]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.01.10-18.21.00:968][889]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.01.10-18.21.00:968][889]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.01.10-18.21.00:987][889]LogDirectoryWatcher: A directory notification for 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Collections/' was aborted.
+[2017.01.10-18.21.00:987][889]LogDirectoryWatcher: A directory notification for 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Developers/NeN/Collections/' was aborted.
+[2017.01.10-18.21.00:987][889]LogDirectoryWatcher: A directory notification for 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Collections/' was aborted.
+[2017.01.10-18.21.00:988][889]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.01.10-18.21.01:010][889]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.01.10-18.21.01:019][889]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.01.10-18.21.01:026][889]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.01.10-18.21.01:026][889]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.01.10-18.21.01:026][889]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.01.10-18.21.01:026][889]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.01.10-18.21.01:026][889]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.01.10-18.21.01:046][889]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.01.10-18.21.01:064][889]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.01.10-18.21.01:083][889]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.01.10-18.21.01:101][889]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.01.10-18.21.01:118][889]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.01.10-18.21.01:144][889]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.01.10-18.21.01:175][889]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.01.10-18.21.01:175][889]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.01.10-18.21.01:175][889]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.01.10-18.21.01:175][889]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.01.10-18.21.01:175][889]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.01.10-18.21.01:175][889]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.01.10-18.21.01:175][889]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.01.10-18.21.01:175][889]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.01.10-18.21.01:175][889]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.01.10-18.21.01:215][889]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.01.10-18.21.01:215][889]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.01.10-18.21.01:215][889]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.01.10-18.21.01:215][889]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.01.10-18.21.01:215][889]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.01.10-18.21.01:215][889]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.01.10-18.21.01:232][889]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.01.10-18.21.01:232][889]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.01.10-18.21.01:246][889]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.01.10-18.21.01:246][889]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.01.10-18.21.01:257][889]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.01.10-18.21.01:257][889]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.01.10-18.21.02:274][889]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.01.10-18.21.02:303][889]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.01.10-18.21.02:303][889]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.01.10-18.21.02:303][889]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.01.10-18.21.02:357][889]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.01.10-18.21.02:462][889]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.01.10-18.21.02:512][889]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.01.10-18.21.02:562][889]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.01.10-18.21.02:572][889]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.01.10-18.21.02:572][889]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.01.10-18.21.02:618][889]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.01.10-18.21.02:644][889]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.01.10-18.21.02:724][889]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.01.10-18.21.02:756][889]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.01.10-18.21.02:780][889]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.01.10-18.21.02:780][889]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.01.10-18.21.02:794][889]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.01.10-18.21.02:799][889]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.01.10-18.21.02:800][889]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.01.10-18.21.02:801][889]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.01.10-18.21.02:801][889]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.01.10-18.21.02:815][889]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.01.10-18.21.02:845][889]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.01.10-18.21.02:856][889]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.01.10-18.21.02:879][889]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.01.10-18.21.02:879][889]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.01.10-18.21.02:960][889]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.01.10-18.21.03:070][889]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.01.10-18.21.03:110][889]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.01.10-18.21.03:124][889]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.01.10-18.21.03:124][889]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.01.10-18.21.03:138][889]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.01.10-18.21.03:138][889]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.01.10-18.21.03:142][889]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.01.10-18.21.03:148][889]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.01.10-18.21.03:244][889]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.01.10-18.21.03:245][889]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.01.10-18.21.03:251][889]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.01.10-18.21.03:282][889]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.01.10-18.21.03:353][889]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.01.10-18.21.03:374][889]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.01.10-18.21.03:420][889]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.01.10-18.21.03:443][889]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.01.10-18.21.03:445][889]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.01.10-18.21.03:445][889]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.01.10-18.21.03:445][889]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.01.10-18.21.03:445][889]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.01.10-18.21.03:445][889]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.01.10-18.21.03:445][889]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.01.10-18.21.03:445][889]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.01.10-18.21.03:445][889]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.01.10-18.21.03:470][889]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.01.10-18.21.03:470][889]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.01.10-18.21.03:717][889]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.01.10-18.21.03:744][889]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.01.10-18.21.03:744][889]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.01.10-18.21.03:744][889]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.01.10-18.21.03:744][889]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.01.10-18.21.03:765][889]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.01.10-18.21.03:797][889]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.01.10-18.21.03:797][889]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.01.10-18.21.03:797][889]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.01.10-18.21.03:797][889]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.01.10-18.21.03:797][889]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.01.10-18.21.03:820][889]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.01.10-18.21.03:820][889]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.01.10-18.21.03:852][889]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.01.10-18.21.03:852][889]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.01.10-18.21.03:852][889]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.01.10-18.21.03:852][889]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.01.10-18.21.03:865][889]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.01.10-18.21.03:882][889]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.01.10-18.21.03:882][889]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.01.10-18.21.03:882][889]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.01.10-18.21.03:882][889]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.01.10-18.21.03:890][889]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.01.10-18.21.03:900][889]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.01.10-18.21.03:914][889]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.01.10-18.21.03:914][889]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.01.10-18.21.03:940][889]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.01.10-18.21.03:941][889]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.01.10-18.21.03:972][889]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.01.10-18.21.03:993][889]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.01.10-18.21.04:012][889]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.01.10-18.21.04:023][889]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.01.10-18.21.04:023][889]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.01.10-18.21.04:044][889]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.01.10-18.21.04:044][889]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.01.10-18.21.04:044][889]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.01.10-18.21.04:063][889]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.01.10-18.21.04:082][889]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.01.10-18.21.04:082][889]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.01.10-18.21.04:103][889]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.01.10-18.21.04:105][889]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.01.10-18.21.04:119][889]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.01.10-18.21.04:220][889]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.01.10-18.21.04:346][889]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.01.10-18.21.04:346][889]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.01.10-18.21.04:368][889]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.01.10-18.21.04:378][889]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.01.10-18.21.04:407][889]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.01.10-18.21.04:407][889]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.01.10-18.21.04:423][889]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.01.10-18.21.04:423][889]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.01.10-18.21.04:423][889]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.01.10-18.21.04:423][889]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.01.10-18.21.04:463][889]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.01.10-18.21.04:481][889]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.01.10-18.21.04:500][889]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.01.10-18.21.04:500][889]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.01.10-18.21.04:500][889]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.01.10-18.21.04:500][889]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.01.10-18.21.04:520][889]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.01.10-18.21.04:520][889]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.01.10-18.21.04:520][889]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.01.10-18.21.04:555][889]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.01.10-18.21.04:555][889]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.01.10-18.21.04:573][889]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.01.10-18.21.04:573][889]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.01.10-18.21.04:573][889]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.01.10-18.21.04:573][889]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.01.10-18.21.04:573][889]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.01.10-18.21.04:573][889]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.01.10-18.21.04:573][889]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.10-18.21.04:574][889]LogDirectoryWatcher: A directory notification for 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/' was aborted.
+[2017.01.10-18.21.04:574][889]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.10-18.21.04:577][889]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.01.10-18.21.04:911][889]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.01.10-18.21.04:911][889]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.01.10-18.21.04:925][889]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.01.10-18.21.04:930][889]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.01.10-18.21.04:951][889]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.01.10-18.21.04:971][889]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.01.10-18.21.04:994][889]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.01.10-18.21.05:017][889]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.01.10-18.21.05:114][889]LogDerivedDataCache: Shutdown
+[2017.01.10-18.21.05:114][889]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.01.10-18.21.05:133][889]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.01.10-18.21.05:146][889]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.01.10-18.21.05:170][889]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.01.10-18.21.05:193][889]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.01.10-18.21.05:193][889]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.01.10-18.21.05:214][889]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.01.10-18.21.05:233][889]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.01.10-18.21.05:249][889]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.01.10-18.21.05:249][889]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.01.10-18.21.05:249][889]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.01.10-18.21.05:249][889]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.01.10-18.21.05:265][889]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.01.10-18.21.05:292][889]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.01.10-18.21.05:295][889]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.01.10-18.21.05:295][889]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.01.10-18.21.05:342][889]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.01.10-18.21.05:365][889]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.01.10-18.21.05:390][889]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.01.10-18.21.05:390][889]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.01.10-18.21.05:390][889]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.01.10-18.21.05:390][889]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.01.10-18.21.05:390][889]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.01.10-18.21.05:390][889]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.01.10-18.21.05:390][889]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.01.10-18.21.05:390][889]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.01.10-18.21.05:390][889]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.01.10-18.21.05:390][889]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.01.10-18.21.05:390][889]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.01.10-18.21.05:390][889]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.01.10-18.21.05:390][889]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.01.10-18.21.05:390][889]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.01.10-18.21.05:409][889]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.01.10-18.21.05:419][889]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.01.10-18.21.05:425][889]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.01.10-18.21.05:425][889]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.01.10-18.21.05:425][889]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.01.10-18.21.05:425][889]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.01.10-18.21.05:425][889]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.10-18.21.05:425][889]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.10-18.21.05:425][889]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.10-18.21.05:425][889]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.10-18.21.05:425][889]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.10-18.21.05:448][889]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.01.10-18.21.05:448][889]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.01.10-18.21.05:448][889]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.01.10-18.21.05:448][889]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.10-18.21.05:476][889]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.01.10-18.21.05:498][889]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.10-18.21.05:498][889]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.10-18.21.05:510][889]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.10-18.21.05:511][889]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.10-18.21.05:511][889]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.10-18.21.05:511][889]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.10-18.21.05:660][889]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.10-18.21.05:670][889]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.10-18.21.05:671][889]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.10-18.21.05:674][889]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.10-18.21.05:687][889]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.10-18.21.05:687][889]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.10-18.21.05:687][889]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.10-18.21.05:712][889]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.10-18.21.05:728][889]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.10-18.21.05:728][889]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.10-18.21.05:756][889]LogExit: Exiting.
+[2017.01.10-18.21.05:783][889]Log file closed, 01/10/17 19:21:05
