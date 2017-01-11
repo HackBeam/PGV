@@ -1,0 +1,862 @@
+﻿Log file open, 01/11/17 12:37:43
+LogInit:Display: Running engine for game: TheLastShelter
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1680797453) SRandInit(1680797455).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.146712
+LogPluginManager: Loaded Plugin Paper2D, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From D:/UnrealEngine/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3224400
+LogInit: Engine Version: 4.14.1-3224400+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Dec  7 2016 02:14:32
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/UnrealEngine/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.11-11.37.45:119][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.11-11.37.45:119][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.11-11.37.45:342][  0]LogInit: Computer: NEN
+[2017.01.11-11.37.45:342][  0]LogInit: User: nen155
+[2017.01.11-11.37.45:342][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.01.11-11.37.45:342][  0]LogInit: High frequency timer resolution =2.143064 MHz
+[2017.01.11-11.37.45:343][  0]LogMemory: Memory total: Physical=4.0GB (4GB approx)
+[2017.01.11-11.37.45:343][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.11-11.37.45:343][  0]LogMemory: Process Physical Memory: 263.55 MB used, 263.55 MB peak
+[2017.01.11-11.37.45:343][  0]LogMemory: Process Virtual Memory: 262.08 MB used, 262.08 MB peak
+[2017.01.11-11.37.45:343][  0]LogMemory: Physical Memory: 3612.33 MB used,  448.25 MB free, 4060.57 MB total
+[2017.01.11-11.37.45:343][  0]LogMemory: Virtual Memory: 669.88 MB used,  448.25 MB free, 134217728.00 MB total
+[2017.01.11-11.37.45:660][  0]LogInit: Overriding culture en with editor configuration.
+[2017.01.11-11.37.48:777][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.11-11.37.49:402][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 310M             ' (Feature Level 10_0)
+[2017.01.11-11.37.49:402][  0]LogD3D11RHI:       459/0/2030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.01.11-11.37.49:518][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.11-11.37.49:518][  0]LogD3D11RHI:       0/0/2030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.11-11.37.49:518][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.11-11.37.49:530][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.11-11.37.49:530][  0]LogD3D11RHI:     GPU DeviceId: 0xa75 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.11-11.37.49:530][  0]LogWindows: EnumDisplayDevices:
+[2017.01.11-11.37.49:530][  0]LogWindows:    0. 'NVIDIA GeForce 310M             ' (P:1 D:1)
+[2017.01.11-11.37.49:530][  0]LogWindows:    1. 'NVIDIA GeForce 310M             ' (P:0 D:0)
+[2017.01.11-11.37.49:530][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2017.01.11-11.37.49:530][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 310M             
+[2017.01.11-11.37.49:531][  0]LogD3D11RHI:   Driver Version: 342.01 (internal:21.21.13.4201, unified:342.01)
+[2017.01.11-11.37.49:531][  0]LogD3D11RHI:      Driver Date: 11-14-2016
+[2017.01.11-11.37.49:531][  0]LogRHI: Texture pool is 321 MB (70% of 459 MB)
+[2017.01.11-11.37.49:562][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.11-11.37.49:597][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 3)
+[2017.01.11-11.37.51:840][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.11-11.37.51:841][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.11-11.37.51:842][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (../../../../../../GitHub/PGV/TheLastShelter/Intermediate/Shaders/WorkingDirectory/4508/).
+[2017.01.11-11.37.51:843][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nen155/AppData/Local/Temp/UnrealShaderWorkingDir/6912A41A42777F3E1B5B799115DDA813/'.
+[2017.01.11-11.37.51:843][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.11-11.37.59:724][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.11-11.37.59:912][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.11-11.38.00:082][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.11-11.38.00:271][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.11-11.38.00:467][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.11-11.38.00:685][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.11-11.38.00:878][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.11-11.38.01:100][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.11-11.38.01:288][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.11-11.38.01:467][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.11-11.38.01:676][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.11-11.38.01:946][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.11-11.38.02:240][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.11-11.38.02:524][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.11-11.38.02:739][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.11-11.38.03:280][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.11-11.38.03:280][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.11-11.38.03:892][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.11-11.38.04:434][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.11-11.38.04:537][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.11-11.38.04:775][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.11-11.38.04:931][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.11-11.38.05:181][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.11-11.38.05:369][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.11-11.38.05:369][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.11-11.38.07:703][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.11-11.38.08:017][  0]LogDerivedDataCache: Loaded boot cache 0.31s 48MB C:/Users/nen155/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.11-11.38.08:017][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/nen155/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.11-11.38.08:017][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GitHub/PGV/TheLastShelter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.11-11.38.08:017][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.11-11.38.08:017][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GitHub/PGV/TheLastShelter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.11-11.38.08:017][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.11-11.38.08:066][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.11-11.38.08:081][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nen155/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.11-11.38.12:082][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.11-11.38.12:123][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.11-11.38.13:044][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.11-11.38.13:277][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.11-11.38.13:559][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.11-11.38.13:559][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.11-11.38.13:559][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.11-11.38.17:877][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: thelastshelter, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 306971164
+[2017.01.11-11.38.18:090][  0]LogAssetRegistry: FAssetRegistry took 0.0233 seconds to start up
+[2017.01.11-11.38.18:215][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.042499 seconds
+[2017.01.11-11.38.18:236][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.11-11.38.18:236][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.01.11-11.38.18:236][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.11-11.38.18:532][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.11-11.38.23:875][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.11-11.38.24:216][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.11-11.38.24:216][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.11-11.39.09:560][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.11-11.39.10:607][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.11-11.39.18:459][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.11-11.39.20:141][  0]SourceControl: Info Source control is disabled
+[2017.01.11-11.39.22:008][  0]SourceControl: Info Source control is disabled
+[2017.01.11-11.39.22:568][  0]SourceControl: Info Source control is disabled
+[2017.01.11-11.39.22:784][  0]SourceControl: Info Source control is disabled
+[2017.01.11-11.39.29:983][  0]LogEngine: Initializing Engine...
+[2017.01.11-11.39.29:984][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.11-11.39.31:056][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.11-11.39.31:111][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-11.39.31:175][  0]LogInit: FAudioDevice initialized.
+[2017.01.11-11.39.31:300][  0]LogDerivedDataCache: Saved boot cache 0.12s 48MB C:/Users/nen155/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.11-11.39.31:340][  0]LogInit: Texture streaming: Enabled
+[2017.01.11-11.39.35:284][  0]LogInit: Transaction tracking system initialized
+[2017.01.11-11.39.36:772][  0]BlueprintLog: New page: Editor Load
+[2017.01.11-11.39.40:788][  0]LocalizationService: Info Localization service is disabled
+[2017.01.11-11.39.44:327][  0]LogConsoleResponse:Display: 
+[2017.01.11-11.39.47:014][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/PGV/TheLastShelter/Content/' took 0.09s
+[2017.01.11-11.39.47:014][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.11-11.39.47:014][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.11-11.39.53:894][  0]SourceControl: Info Source control is disabled
+[2017.01.11-11.39.53:895][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=2
+[2017.01.11-11.39.53:912][  0]LightingResults: New page: Lighting Build
+[2017.01.11-11.39.54:057][  0]MapCheck: New page: Map Check
+[2017.01.11-11.39.54:057][  0]LightingResults: New page: Lighting Build
+[2017.01.11-11.39.55:460][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.01.11-11.39.55:462][  0]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.01.11-11.39.55:566][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.11-11.39.55:638][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.11-11.39.56:224][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 584.325ms to complete.
+[2017.01.11-11.39.56:224][  0]LogFileHelpers: Loading map 'Template_Default' took 2.329
+[2017.01.11-11.40.01:209][  0]LogCollectionManager: Loaded 0 collections in 0.004514 seconds
+[2017.01.11-11.40.02:072][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/PGV/TheLastShelter/Saved/Collections/' took 0.01s
+[2017.01.11-11.40.02:072][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/PGV/TheLastShelter/Content/Developers/nen155/Collections/' took 0.01s
+[2017.01.11-11.40.02:072][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/PGV/TheLastShelter/Content/Collections/' took 0.01s
+[2017.01.11-11.40.02:072][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000005 seconds
+[2017.01.11-11.40.02:225][  0]LogContentBrowser: Native class hierarchy populated in 0.1248 seconds. Added 2190 classes and 428 folders.
+[2017.01.11-11.40.02:644][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.11-11.40.02:644][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2017.01.11-11.40.02:647][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0013 seconds. Added 13 classes and 0 folders.
+[2017.01.11-11.40.03:153][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.01.11-11.40.04:549][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2017.01.11-11.40.04:941][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.01.11-11.40.06:237][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.11-11.40.06:710][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.11-11.40.07:015][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2017.01.11-11.40.07:015][  0]LogLoad: (Engine Initialization) Total time: 148.32 seconds
+[2017.01.11-11.40.07:015][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 1.00 seconds
+[2017.01.11-11.40.07:015][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.01.11-11.40.07:028][  0]LogOcInput: OculusInput pre-init called
+[2017.01.11-11.40.07:674][  0]LogContentStreaming: Texture pool size now 400 MB
+[2017.01.11-11.40.11:175][  0]LogRenderer: Reallocating scene render targets to support 1004x456 NumSamples 1 (Frame:2).
+[2017.01.11-11.40.16:438][  4]LogAssetRegistry: Asset discovery search completed in 118.3719 seconds
+[2017.01.11-11.40.16:459][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2017.01.11-11.40.16:460][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.001622 seconds (updated 0 objects)
+[2017.01.11-11.40.27:443][282]LogTexture:Display: Building textures: sinaudio (BGRA8)
+[2017.01.11-11.40.27:529][282]LogTexture:Display: Building textures: dialogBox (AutoDXT)
+[2017.01.11-11.40.27:717][282]LogTexture:Display: Building textures: ripple-fire-text-2-black (AutoDXT)
+[2017.01.11-11.40.28:605][282]LogTexture:Display: Building textures: ripple-fire-text-2 (BC5)
+[2017.01.11-11.40.28:835][282]LogTexture:Display: Building textures: white-smoke-bottom (BGRA8)
+[2017.01.11-11.40.29:285][282]LogMaterial: Missing cached shader map for material letters_main_menu_mod, compiling. 
+[2017.01.11-11.40.31:105][282]LogTexture:Display: Building textures: background (AutoDXT)
+[2017.01.11-11.40.32:109][282]LogTexture:Display: Building textures: backgroundSound (BGRA8)
+[2017.01.11-11.40.32:285][282]LogTexture:Display: Building textures: Bad (AutoDXT)
+[2017.01.11-11.40.33:242][282]LogTexture:Display: Building textures: CASC_ModuleEnab_2 (DXT1)
+[2017.01.11-11.40.33:288][282]LogTexture:Display: Building textures: mapa-upperbar-backgound (BGRA8)
+[2017.01.11-11.40.33:297][282]LogTexture:Display: Building textures: logro (BGRA8)
+[2017.01.11-11.40.33:310][282]LogTexture:Display: Building textures: logro-ultimate (BGRA8)
+[2017.01.11-11.40.33:440][282]LogTexture:Display: Building textures: mapa (BGRA8)
+[2017.01.11-11.40.33:641][282]LogTexture:Display: Building textures: logo (BGRA8)
+[2017.01.11-11.40.33:704][282]LogTexture:Display: Building textures: fondo_bg_audio (BGRA8)
+[2017.01.11-11.40.33:778][282]LogTexture:Display: Building textures: conaudio (BGRA8)
+[2017.01.11-11.40.41:659][282]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 111 classes and 0 folders.
+[2017.01.11-11.44.28:902][627]BlueprintLog: New page: Compile MainMenu
+[2017.01.11-11.44.32:266][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.11-11.44.33:048][645]LogSavePackage: Save=608.78ms
+[2017.01.11-11.44.33:049][645]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MainMenuEE38939D46B01442416D9DA800E0FCE9.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.11-11.44.33:056][645]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.11-11.45.05:930][197]BlueprintLog: New page: Compile MainMenu
+[2017.01.11-11.45.07:978][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.11-11.45.08:476][218]LogSavePackage: Save=475.97ms
+[2017.01.11-11.45.08:476][218]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MainMenu2011504D466A10F6DB4E92BA8792C0C0.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.11-11.45.08:485][218]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.11-11.45.17:166][407]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-11.45.19:884][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.11-11.45.20:435][407]LogSavePackage: Save=536.22ms
+[2017.01.11-11.45.20:435][407]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MainMenu5723E9354D4CEDF07425F88E5B156FBB.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.11-11.45.20:441][407]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.11-11.45.20:917][407]Cmd: MAP LOAD FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/Maps/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2017.01.11-11.45.20:919][407]LightingResults: New page: Lighting Build
+[2017.01.11-11.45.20:921][407]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2017.01.11-11.45.21:004][407]MapCheck: New page: Map Check
+[2017.01.11-11.45.21:004][407]LightingResults: New page: Lighting Build
+[2017.01.11-11.45.21:402][407]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.11-11.45.21:485][407]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.11-11.45.21:958][407]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 472.401ms to complete.
+[2017.01.11-11.45.21:959][407]LogFileHelpers: Loading map 'MainMenuLevel' took 1.518
+[2017.01.11-11.45.24:096][469]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-11.45.24:179][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.45.24:195][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-11.45.24:416][469]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 1:45:24 PM)
+[2017.01.11-11.45.24:418][469]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-11.45.24:558][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.139969s)
+[2017.01.11-11.45.24:560][469]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-11.45.24:595][469]LogPlayLevel: PIE: World Init took: (0.036382s)
+[2017.01.11-11.45.24:609][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.191114s)
+[2017.01.11-11.45.24:740][469]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-11.45.25:040][469]LogInit: FAudioDevice initialized.
+[2017.01.11-11.45.27:137][469]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-11.45.27:142][469]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-12.45.27
+[2017.01.11-11.45.27:742][469]LogWorld: Bringing up level for play took: 0.176092
+[2017.01.11-11.45.29:031][469]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0023 seconds. Added 11 classes and 0 folders.
+[2017.01.11-11.45.30:201][469]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 5.677
+[2017.01.11-11.45.30:202][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.46.20:976][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.46.21:319][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.47.13:010][ 78]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-11.47.13:053][ 78]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.47.13:054][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-11.47.13:054][ 78]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 1:47:13 PM)
+[2017.01.11-11.47.13:055][ 78]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-11.47.13:073][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017818s)
+[2017.01.11-11.47.13:075][ 78]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-11.47.13:075][ 78]LogPlayLevel: PIE: World Init took: (0.001912s)
+[2017.01.11-11.47.13:076][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.020178s)
+[2017.01.11-11.47.13:152][ 78]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-11.47.13:277][ 78]LogInit: FAudioDevice initialized.
+[2017.01.11-11.47.13:398][ 78]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-11.47.13:401][ 78]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-12.47.13
+[2017.01.11-11.47.13:402][ 78]LogWorld: Bringing up level for play took: 0.002621
+[2017.01.11-11.47.13:414][ 78]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 0.89
+[2017.01.11-11.47.13:414][ 78]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.47.24:351][437]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.47.24:357][437]LogBlueprintUserMessages: [MainMenu_C_5] BOLEAN
+[2017.01.11-11.47.24:370][437]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.47.39:293][958]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.47.39:293][958]LogBlueprintUserMessages: [MainMenu_C_7] BOLEAN
+[2017.01.11-11.47.39:305][958]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.47.50:534][340]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.47.50:534][340]LogBlueprintUserMessages: [MainMenu_C_8] BOLEAN
+[2017.01.11-11.47.50:546][340]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.48.09:492][527]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.48.09:624][527]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.50.33:049][  6]BlueprintLog: New page: Compile MainMenu
+[2017.01.11-11.50.34:538][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.11-11.50.35:014][ 16]LogSavePackage: Save=434.52ms
+[2017.01.11-11.50.35:014][ 16]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MainMenuBA375DD645BA1A2F6CEBBF9758AEC8D3.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.11-11.50.35:032][ 16]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.11-11.50.38:789][126]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-11.50.38:851][126]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.50.38:851][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-11.50.38:851][126]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 1:50:38 PM)
+[2017.01.11-11.50.38:854][126]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-11.50.38:857][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002734s)
+[2017.01.11-11.50.38:864][126]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-11.50.38:864][126]LogPlayLevel: PIE: World Init took: (0.006814s)
+[2017.01.11-11.50.38:864][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.009947s)
+[2017.01.11-11.50.38:949][126]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-11.50.39:031][126]LogInit: FAudioDevice initialized.
+[2017.01.11-11.50.39:086][126]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-11.50.39:090][126]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-12.50.39
+[2017.01.11-11.50.39:091][126]LogWorld: Bringing up level for play took: 0.003278
+[2017.01.11-11.50.39:104][126]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 0.579
+[2017.01.11-11.50.39:104][126]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.50.45:440][330]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.50.45:440][330]LogBlueprintUserMessages: [MainMenu_C_1] BOLEAN
+[2017.01.11-11.50.45:453][330]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.50.55:873][686]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.50.55:873][686]LogBlueprintUserMessages: [MainMenu_C_3] BOLEAN
+[2017.01.11-11.50.55:886][686]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.51.01:965][819]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.51.02:049][819]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.51.28:947][249]BlueprintLog: New page: Compile MainMenu
+[2017.01.11-11.51.30:353][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.11-11.51.30:832][259]LogSavePackage: Save=464.46ms
+[2017.01.11-11.51.30:832][259]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MainMenuD08187914F13FBD6ADBD9581750E6092.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.11-11.51.30:839][259]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.11-11.51.33:534][334]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-11.51.33:602][334]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.51.33:602][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-11.51.33:602][334]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 1:51:33 PM)
+[2017.01.11-11.51.33:604][334]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-11.51.33:608][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003271s)
+[2017.01.11-11.51.33:609][334]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-11.51.33:610][334]LogPlayLevel: PIE: World Init took: (0.002018s)
+[2017.01.11-11.51.33:610][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.005767s)
+[2017.01.11-11.51.33:727][334]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-11.51.33:820][334]LogInit: FAudioDevice initialized.
+[2017.01.11-11.51.33:919][334]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-11.51.33:922][334]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-12.51.33
+[2017.01.11-11.51.33:923][334]LogWorld: Bringing up level for play took: 0.002871
+[2017.01.11-11.51.33:935][334]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel -0.589
+[2017.01.11-11.51.33:936][334]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.51.43:087][636]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.51.43:087][636]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.51.43:087][636]LogBlueprintUserMessages: [MainMenu_C_1] BOLEAN
+[2017.01.11-11.51.43:101][636]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.51.54:905][ 40]LogBlueprintUserMessages: [MainMenu_C_3] GUARDANDO
+[2017.01.11-11.51.54:905][ 40]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.51.54:905][ 40]LogBlueprintUserMessages: [MainMenu_C_3] BOLEAN
+[2017.01.11-11.51.54:916][ 40]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.52.05:893][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.52.06:045][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.52.49:174][  3]BlueprintLog: New page: Compile MainMenu
+[2017.01.11-11.52.53:334][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.11-11.52.53:838][ 56]LogSavePackage: Save=479.35ms
+[2017.01.11-11.52.53:838][ 56]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MainMenuB195318D40E7AD0A138F979E30EDB6B0.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.11-11.52.53:858][ 56]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.11-11.52.56:802][133]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-11.52.56:864][133]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.52.56:864][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-11.52.56:864][133]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 1:52:56 PM)
+[2017.01.11-11.52.56:866][133]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-11.52.56:870][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003308s)
+[2017.01.11-11.52.56:871][133]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-11.52.56:872][133]LogPlayLevel: PIE: World Init took: (0.001768s)
+[2017.01.11-11.52.56:872][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.005525s)
+[2017.01.11-11.52.56:986][133]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-11.52.57:018][133]LogInit: FAudioDevice initialized.
+[2017.01.11-11.52.57:076][133]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-11.52.57:079][133]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-12.52.57
+[2017.01.11-11.52.57:079][133]LogWorld: Bringing up level for play took: 0.002602
+[2017.01.11-11.52.57:091][133]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 0.566
+[2017.01.11-11.52.57:092][133]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.53.02:493][301]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.53.02:493][301]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.53.02:494][301]LogBlueprintUserMessages: [MainMenu_C_1] BOLEAN
+[2017.01.11-11.53.02:508][301]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.53.14:028][571]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.53.14:163][571]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.54.22:586][541]BlueprintLog: New page: Compile MainMenu
+[2017.01.11-11.54.23:886][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.11-11.54.24:302][549]LogSavePackage: Save=397.17ms
+[2017.01.11-11.54.24:302][549]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MainMenu11DEAFFD45D938B467EBC7B9DB7D8A3A.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.11-11.54.24:311][549]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.11-11.54.27:114][621]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-11.54.27:159][621]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.54.27:159][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-11.54.27:159][621]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 1:54:27 PM)
+[2017.01.11-11.54.27:161][621]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-11.54.27:164][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003269s)
+[2017.01.11-11.54.27:166][621]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-11.54.27:166][621]LogPlayLevel: PIE: World Init took: (0.002024s)
+[2017.01.11-11.54.27:167][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.005706s)
+[2017.01.11-11.54.27:248][621]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-11.54.27:320][621]LogInit: FAudioDevice initialized.
+[2017.01.11-11.54.27:362][621]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-11.54.27:365][621]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-12.54.27
+[2017.01.11-11.54.27:366][621]LogWorld: Bringing up level for play took: 0.002938
+[2017.01.11-11.54.27:394][621]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 0.869
+[2017.01.11-11.54.27:394][621]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.54.33:987][819]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.54.33:987][819]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.54.33:987][819]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-11.54.37:006][918]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.54.37:007][918]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.54.37:007][918]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-11.54.37:638][939]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.54.37:638][939]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.54.37:638][939]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-11.54.37:949][950]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.54.37:949][950]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.54.37:949][950]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-11.54.38:242][960]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.54.38:242][960]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.54.38:242][960]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-11.54.38:436][967]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.54.38:436][967]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.54.38:436][967]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-11.54.38:796][978]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.54.38:797][978]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.54.38:797][978]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-11.54.39:051][987]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.54.39:051][987]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.54.39:051][987]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-11.54.41:256][ 60]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.54.41:256][ 60]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.54.41:256][ 60]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-11.54.41:685][ 74]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.54.41:685][ 74]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.54.41:685][ 74]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-11.54.41:975][ 84]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.54.41:975][ 84]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.54.41:975][ 84]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-11.54.46:555][222]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.54.46:624][222]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.55.09:372][564]BlueprintLog: New page: Compile MainMenu
+[2017.01.11-11.55.10:666][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.11-11.55.11:038][572]LogSavePackage: Save=360.04ms
+[2017.01.11-11.55.11:038][572]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MainMenuCE2B74634E27D5EDD9D4F3BDC77CCC75.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.11-11.55.11:046][572]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.11-11.55.29:258][873]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-11.55.29:300][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.55.29:300][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-11.55.29:300][873]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 1:55:29 PM)
+[2017.01.11-11.55.29:302][873]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-11.55.29:305][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002917s)
+[2017.01.11-11.55.29:307][873]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-11.55.29:307][873]LogPlayLevel: PIE: World Init took: (0.002251s)
+[2017.01.11-11.55.29:308][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.005584s)
+[2017.01.11-11.55.29:383][873]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-11.55.29:417][873]LogInit: FAudioDevice initialized.
+[2017.01.11-11.55.29:468][873]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-11.55.29:471][873]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-12.55.29
+[2017.01.11-11.55.29:472][873]LogWorld: Bringing up level for play took: 0.002669
+[2017.01.11-11.55.29:483][873]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 0.958
+[2017.01.11-11.55.29:484][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.55.34:711][ 38]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.55.34:711][ 38]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.55.34:711][ 38]LogBlueprintUserMessages: [MainMenu_C_1] GUARDADO
+[2017.01.11-11.55.37:987][149]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.55.37:988][149]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.55.37:988][149]LogBlueprintUserMessages: [MainMenu_C_1] GUARDADO
+[2017.01.11-11.55.40:480][222]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-11.55.40:480][222]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-11.55.40:480][222]LogBlueprintUserMessages: [MainMenu_C_1] GUARDADO
+[2017.01.11-11.55.44:558][337]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-11.55.44:628][337]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.01.15:728][292]BlueprintLog: New page: Compile MainMenu
+[2017.01.11-12.01.17:833][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.11-12.01.18:279][311]LogSavePackage: Save=424.63ms
+[2017.01.11-12.01.18:279][311]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MainMenuD5317EFB450B263F791282A43A1FAC13.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.11-12.01.18:286][311]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.11-12.01.29:125][481]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-12.01.29:166][481]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.01.29:167][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-12.01.29:167][481]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 2:01:29 PM)
+[2017.01.11-12.01.29:168][481]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-12.01.29:171][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002979s)
+[2017.01.11-12.01.29:179][481]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-12.01.29:180][481]LogPlayLevel: PIE: World Init took: (0.006297s)
+[2017.01.11-12.01.29:180][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.011890s)
+[2017.01.11-12.01.29:259][481]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-12.01.29:293][481]LogInit: FAudioDevice initialized.
+[2017.01.11-12.01.29:346][481]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-12.01.29:350][481]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-13.01.29
+[2017.01.11-12.01.29:350][481]LogWorld: Bringing up level for play took: 0.002808
+[2017.01.11-12.01.29:362][481]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 0.837
+[2017.01.11-12.01.29:362][481]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.01.34:920][659]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.01.34:920][659]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.01.34:920][659]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-12.01.38:288][765]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.01.38:288][765]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.01.38:288][765]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-12.01.38:482][772]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.01.38:482][772]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.01.38:482][772]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-12.01.38:653][777]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.01.38:653][777]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.01.38:653][777]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-12.01.38:987][786]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.01.38:987][786]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.01.38:987][786]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-12.01.39:168][791]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.01.39:168][791]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.01.39:168][791]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-12.01.39:327][796]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.01.39:327][796]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.01.39:327][796]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-12.01.39:473][801]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.01.39:473][801]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.01.39:473][801]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-12.01.39:545][804]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.01.39:545][804]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.01.39:545][804]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-12.01.39:924][817]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.01.39:924][817]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array SavesGameSlot of length 0!
+[2017.01.11-12.01.39:924][817]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-12.01.40:063][822]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.01.40:063][822]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array SavesGameSlot of length 0!
+[2017.01.11-12.01.40:063][822]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-12.01.40:364][832]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.01.40:364][832]LogScriptCore:Warning: Script Msg: Attempted to access index 2 from array SavesGameSlot of length 0!
+[2017.01.11-12.01.40:364][832]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-12.01.40:574][838]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.01.40:574][838]LogScriptCore:Warning: Script Msg: Attempted to access index 2 from array SavesGameSlot of length 0!
+[2017.01.11-12.01.40:574][838]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-12.01.40:774][845]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.01.40:774][845]LogScriptCore:Warning: Script Msg: Attempted to access index 2 from array SavesGameSlot of length 0!
+[2017.01.11-12.01.40:774][845]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-12.01.41:232][861]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.01.41:232][861]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.01.41:232][861]LogBlueprintUserMessages: [MainMenu_C_1] false
+[2017.01.11-12.01.52:014][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.01.52:092][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.02.41:323][910]BlueprintLog: New page: Compile MainMenu
+[2017.01.11-12.02.42:729][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.11-12.02.43:117][919]LogSavePackage: Save=371.36ms
+[2017.01.11-12.02.43:117][919]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MainMenu1D4BED30482BF92CFCB361B6717E8864.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.11-12.02.43:122][919]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.11-12.02.45:639][980]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-12.02.45:679][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.02.45:679][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-12.02.45:679][980]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 2:02:45 PM)
+[2017.01.11-12.02.45:681][980]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-12.02.45:685][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004098s)
+[2017.01.11-12.02.45:687][980]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-12.02.45:687][980]LogPlayLevel: PIE: World Init took: (0.001965s)
+[2017.01.11-12.02.45:688][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.006491s)
+[2017.01.11-12.02.45:796][980]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-12.02.45:823][980]LogInit: FAudioDevice initialized.
+[2017.01.11-12.02.45:871][980]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-12.02.45:875][980]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-13.02.45
+[2017.01.11-12.02.45:876][980]LogWorld: Bringing up level for play took: 0.003719
+[2017.01.11-12.02.45:889][980]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel -0.636
+[2017.01.11-12.02.45:889][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.02.51:310][143]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.02.51:310][143]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.02.51:310][143]LogBlueprintUserMessages: [MainMenu_C_1] no ok
+[2017.01.11-12.03.00:749][369]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.03.00:879][369]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.04.46:883][ 10]BlueprintLog: New page: Compile MyGameInstance
+[2017.01.11-12.04.48:616][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset" SILENT=true
+[2017.01.11-12.04.48:682][ 19]LogSavePackage: Save=30.83ms
+[2017.01.11-12.04.48:682][ 19]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MyGameInstance54A9DFA549F680FD3F538CB0A1C3168A.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset'
+[2017.01.11-12.04.48:689][ 19]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset
+[2017.01.11-12.09.20:471][117]BlueprintLog: New page: Compile MyGameInstance
+[2017.01.11-12.09.21:631][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset" SILENT=true
+[2017.01.11-12.09.21:670][119]LogSavePackage: Save=14.88ms
+[2017.01.11-12.09.21:670][119]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MyGameInstance9B87FD2242C1C3E6E8610084CF5D5CB4.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset'
+[2017.01.11-12.09.21:675][119]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset
+[2017.01.11-12.09.28:886][256]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-12.09.28:966][256]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.09.28:966][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-12.09.28:966][256]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 2:09:28 PM)
+[2017.01.11-12.09.28:981][256]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-12.09.28:985][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003448s)
+[2017.01.11-12.09.28:987][256]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-12.09.28:987][256]LogPlayLevel: PIE: World Init took: (0.002412s)
+[2017.01.11-12.09.28:987][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.006279s)
+[2017.01.11-12.09.29:121][256]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array SavesGameSlot [0/0]!
+[2017.01.11-12.09.29:121][256]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array SavesGameSlot [1/0]!
+[2017.01.11-12.09.29:121][256]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array SavesGameSlot [2/0]!
+[2017.01.11-12.09.29:141][256]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-12.09.29:204][256]LogInit: FAudioDevice initialized.
+[2017.01.11-12.09.29:265][256]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-12.09.29:274][256]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-13.09.29
+[2017.01.11-12.09.29:276][256]LogWorld: Bringing up level for play took: 0.008115
+[2017.01.11-12.09.29:303][256]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 0.779
+[2017.01.11-12.09.29:305][256]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.09.34:541][411]LogBlueprintUserMessages: [MainMenu_C_3] GUARDANDO
+[2017.01.11-12.09.34:541][411]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.09.34:541][411]LogBlueprintUserMessages: [MainMenu_C_3] no ok
+[2017.01.11-12.09.42:581][665]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.09.42:661][665]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.10.03:896][ 60]BlueprintLog: New page: Compile MyGameInstance
+[2017.01.11-12.10.04:598][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset" SILENT=true
+[2017.01.11-12.10.04:662][ 62]LogSavePackage: Save=47.79ms
+[2017.01.11-12.10.04:662][ 62]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MyGameInstance333B484341C032240A21039B10438E4E.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset'
+[2017.01.11-12.10.04:667][ 62]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset
+[2017.01.11-12.10.09:657][158]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-12.10.09:733][158]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.10.09:733][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-12.10.09:733][158]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 2:10:09 PM)
+[2017.01.11-12.10.09:747][158]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-12.10.09:750][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002990s)
+[2017.01.11-12.10.09:751][158]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-12.10.09:752][158]LogPlayLevel: PIE: World Init took: (0.002090s)
+[2017.01.11-12.10.09:752][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.005515s)
+[2017.01.11-12.10.09:866][158]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array SavesGameSlot [0/0]!
+[2017.01.11-12.10.09:866][158]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array SavesGameSlot [1/0]!
+[2017.01.11-12.10.09:866][158]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array SavesGameSlot [2/0]!
+[2017.01.11-12.10.09:866][158]LogBlueprintUserMessages: [MyGameInstance_C_0] complete
+[2017.01.11-12.10.09:873][158]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-12.10.09:927][158]LogInit: FAudioDevice initialized.
+[2017.01.11-12.10.09:987][158]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-12.10.09:991][158]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-13.10.09
+[2017.01.11-12.10.09:993][158]LogWorld: Bringing up level for play took: 0.004868
+[2017.01.11-12.10.10:021][158]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel -0.504
+[2017.01.11-12.10.10:021][158]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.10.14:685][292]LogBlueprintUserMessages: [MainMenu_C_8] GUARDANDO
+[2017.01.11-12.10.14:685][292]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.10.14:685][292]LogBlueprintUserMessages: [MainMenu_C_8] no ok
+[2017.01.11-12.10.19:902][454]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.10.19:972][454]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.12.47:361][498]BlueprintLog: New page: Compile MainMenu
+[2017.01.11-12.12.51:076][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.11-12.12.51:738][531]LogSavePackage: Save=624.22ms
+[2017.01.11-12.12.51:739][531]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MainMenu2834B44A42C2D96BBBDFF9BBBA1E2D0A.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.11-12.12.51:744][531]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.11-12.12.53:727][584]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-12.12.53:797][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.12.53:798][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-12.12.53:798][584]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 2:12:53 PM)
+[2017.01.11-12.12.53:800][584]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-12.12.53:808][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008516s)
+[2017.01.11-12.12.53:811][584]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-12.12.53:812][584]LogPlayLevel: PIE: World Init took: (0.004152s)
+[2017.01.11-12.12.53:813][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.013635s)
+[2017.01.11-12.12.53:956][584]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array SavesGameSlot [0/0]!
+[2017.01.11-12.12.53:956][584]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array SavesGameSlot [1/0]!
+[2017.01.11-12.12.53:956][584]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array SavesGameSlot [2/0]!
+[2017.01.11-12.12.53:956][584]LogBlueprintUserMessages: [MyGameInstance_C_1] complete
+[2017.01.11-12.12.53:966][584]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-12.12.54:010][584]LogInit: FAudioDevice initialized.
+[2017.01.11-12.12.54:068][584]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-12.12.54:071][584]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-13.12.54
+[2017.01.11-12.12.54:072][584]LogWorld: Bringing up level for play took: 0.002964
+[2017.01.11-12.12.54:083][584]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel -0.442
+[2017.01.11-12.12.54:084][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.12.59:292][731]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.12.59:292][731]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.12.59:292][731]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.12.59:339][731]LogBlueprintUserMessages: [MainMenu_C_1] no ok
+[2017.01.11-12.13.00:292][761]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.13.00:292][761]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.13.00:292][761]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.13.00:292][761]LogBlueprintUserMessages: [MainMenu_C_1] no ok
+[2017.01.11-12.13.04:052][880]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.13.04:144][880]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.14.36:027][243]BlueprintLog: New page: Compile MainMenu
+[2017.01.11-12.14.37:326][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.11-12.14.37:739][251]LogSavePackage: Save=399.88ms
+[2017.01.11-12.14.37:740][251]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MainMenu2A0D590746E4DBEB41C63FA1210D1DE2.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.11-12.14.37:752][251]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.11-12.14.40:777][327]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-12.14.40:838][327]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.14.40:839][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-12.14.40:839][327]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 2:14:40 PM)
+[2017.01.11-12.14.40:840][327]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-12.14.40:845][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004191s)
+[2017.01.11-12.14.40:846][327]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-12.14.40:846][327]LogPlayLevel: PIE: World Init took: (0.001872s)
+[2017.01.11-12.14.40:847][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.006506s)
+[2017.01.11-12.14.40:923][327]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array SavesGameSlot [0/0]!
+[2017.01.11-12.14.40:923][327]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array SavesGameSlot [1/0]!
+[2017.01.11-12.14.40:923][327]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array SavesGameSlot [2/0]!
+[2017.01.11-12.14.40:923][327]LogBlueprintUserMessages: [MyGameInstance_C_2] complete
+[2017.01.11-12.14.40:928][327]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-12.14.40:970][327]LogInit: FAudioDevice initialized.
+[2017.01.11-12.14.41:015][327]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-12.14.41:018][327]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-13.14.41
+[2017.01.11-12.14.41:019][327]LogWorld: Bringing up level for play took: 0.002615
+[2017.01.11-12.14.41:030][327]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 0.506
+[2017.01.11-12.14.41:031][327]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.14.59:818][829]LogBlueprintUserMessages: [MainMenu_C_1] GUARDANDO
+[2017.01.11-12.14.59:818][829]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.14.59:818][829]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array SavesGameSlot of length 0!
+[2017.01.11-12.14.59:818][829]LogBlueprintUserMessages: [MainMenu_C_1] no ok
+[2017.01.11-12.14.59:818][829]LogBlueprintUserMessages: [MainMenu_C_1] 0
+[2017.01.11-12.15.06:525][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.15.06:617][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.15.47:687][663]BlueprintLog: New page: Compile MyGameInstance
+[2017.01.11-12.15.48:650][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset" SILENT=true
+[2017.01.11-12.15.48:685][670]LogSavePackage: Save=18.58ms
+[2017.01.11-12.15.48:686][670]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MyGameInstanceEEC34A5B48113532D13EB69A2B5B2EDC.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset'
+[2017.01.11-12.15.48:690][670]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset
+[2017.01.11-12.15.51:295][725]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-12.15.51:345][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.15.51:345][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-12.15.51:345][725]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 2:15:51 PM)
+[2017.01.11-12.15.51:356][725]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-12.15.51:359][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002863s)
+[2017.01.11-12.15.51:361][725]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-12.15.51:361][725]LogPlayLevel: PIE: World Init took: (0.001964s)
+[2017.01.11-12.15.51:361][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.005240s)
+[2017.01.11-12.15.51:438][725]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array SavesGameSlot [0/0]!
+[2017.01.11-12.15.51:438][725]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array SavesGameSlot [1/0]!
+[2017.01.11-12.15.51:438][725]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array SavesGameSlot [2/0]!
+[2017.01.11-12.15.51:438][725]LogBlueprintUserMessages: [MyGameInstance_C_0] 0
+[2017.01.11-12.15.51:442][725]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-12.15.51:468][725]LogInit: FAudioDevice initialized.
+[2017.01.11-12.15.51:510][725]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-12.15.51:514][725]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-13.15.51
+[2017.01.11-12.15.51:514][725]LogWorld: Bringing up level for play took: 0.003008
+[2017.01.11-12.15.51:527][725]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 1.002
+[2017.01.11-12.15.51:527][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.15.57:190][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.15.57:268][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.16.27:060][342]BlueprintLog: New page: Compile MyGameInstance
+[2017.01.11-12.16.28:072][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset" SILENT=true
+[2017.01.11-12.16.28:754][351]LogSavePackage: Save=22.07ms
+[2017.01.11-12.16.28:754][351]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MyGameInstanceC9D116D341CA6FFC11DECFABB0F5EBD9.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset'
+[2017.01.11-12.16.28:759][351]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset
+[2017.01.11-12.16.41:431][555]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-12.16.41:479][555]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.16.41:479][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-12.16.41:480][555]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 2:16:41 PM)
+[2017.01.11-12.16.41:489][555]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-12.16.41:492][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002627s)
+[2017.01.11-12.16.41:494][555]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-12.16.41:494][555]LogPlayLevel: PIE: World Init took: (0.002261s)
+[2017.01.11-12.16.41:495][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.005320s)
+[2017.01.11-12.16.41:665][555]LogBlueprintUserMessages: [MyGameInstance_C_0] 3
+[2017.01.11-12.16.41:669][555]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-12.16.41:695][555]LogInit: FAudioDevice initialized.
+[2017.01.11-12.16.41:742][555]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-12.16.41:746][555]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-13.16.41
+[2017.01.11-12.16.41:746][555]LogWorld: Bringing up level for play took: 0.002449
+[2017.01.11-12.16.41:758][555]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 1.234
+[2017.01.11-12.16.41:759][555]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.16.47:121][700]LogBlueprintUserMessages: [MainMenu_C_11] GUARDANDO
+[2017.01.11-12.16.47:157][700]LogBlueprintUserMessages: [MainMenu_C_11] no ok
+[2017.01.11-12.16.47:157][700]LogBlueprintUserMessages: [MainMenu_C_11] 3
+[2017.01.11-12.16.58:477][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.16.58:553][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.17.27:776][365]BlueprintLog: New page: Compile MainMenu
+[2017.01.11-12.17.28:927][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.11-12.17.29:269][374]LogSavePackage: Save=331.13ms
+[2017.01.11-12.17.29:269][374]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MainMenu2F1F4E8A49FCF483DBE877AB7C6D7B46.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.11-12.17.29:274][374]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.11-12.17.34:877][450]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.11-12.17.34:927][450]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.17.34:927][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.11-12.17.34:927][450]PIE: New page: PIE session: MainMenuLevel (Jan 11, 2017, 2:17:34 PM)
+[2017.01.11-12.17.34:928][450]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2017.01.11-12.17.34:931][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002638s)
+[2017.01.11-12.17.34:933][450]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.01.11-12.17.34:933][450]LogPlayLevel: PIE: World Init took: (0.002220s)
+[2017.01.11-12.17.34:934][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.005522s)
+[2017.01.11-12.17.35:015][450]LogBlueprintUserMessages: [MyGameInstance_C_1] 3
+[2017.01.11-12.17.35:019][450]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.11-12.17.35:042][450]LogInit: FAudioDevice initialized.
+[2017.01.11-12.17.35:088][450]LogLoad: Game class is 'GameModeBase'
+[2017.01.11-12.17.35:092][450]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.01.11-13.17.35
+[2017.01.11-12.17.35:092][450]LogWorld: Bringing up level for play took: 0.002196
+[2017.01.11-12.17.35:103][450]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuLevel 0.579
+[2017.01.11-12.17.35:104][450]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.17.39:733][569]LogBlueprintUserMessages: [MainMenu_C_1] VOY BIEN
+[2017.01.11-12.17.49:625][835]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.17.49:717][835]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Maps/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Maps/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.01.11-12.18.19:229][264]BlueprintLog: New page: Compile MainMenu
+[2017.01.11-12.18.20:489][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MainMenu" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset" SILENT=true
+[2017.01.11-12.18.20:870][271]LogSavePackage: Save=363.02ms
+[2017.01.11-12.18.20:870][271]LogSavePackage: Moving '../../../../../../GitHub/PGV/TheLastShelter/Saved/MainMenu78D885854C0F9C08CBB427A98771DA20.tmp' to '../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset'
+[2017.01.11-12.18.20:876][271]LogSavePackage:Display: Finished SavePackage ../../../../../../GitHub/PGV/TheLastShelter/Content/HUD/MainMenu.uasset
+[2017.01.11-12.18.32:773][452]BlueprintLog: New page: Compile MyGameInstance
+[2017.01.11-12.18.33:755][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance" FILE="../../../../../../GitHub/PGV/TheLastShelter/Content/MyGameInstance.uasset" SILENT=true
