@@ -2935,3 +2935,954 @@ Script call stack:
 [2017.01.25-17.30.27:058][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
 [2017.01.25-17.42.31:961][253]BlueprintLog: New page: Compile LevelHUD
 [2017.01.25-17.42.32:676][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/LevelHUD" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset" SILENT=true
+[2017.01.25-17.42.32:722][273]LogSavePackage: Save=35.37ms
+[2017.01.25-17.42.32:722][273]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/LevelHUD8CDD41614A1472B6FB56CA9AE77904A1.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset'
+[2017.01.25-17.42.32:724][273]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset
+[2017.01.25-17.48.11:562][342]BlueprintLog: New page: Compile LevelHUD
+[2017.01.25-17.48.13:371][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/LevelHUD" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset" SILENT=true
+[2017.01.25-17.48.13:416][435]LogSavePackage: Save=34.16ms
+[2017.01.25-17.48.13:416][435]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/LevelHUD35ED7F0043EB2B3350B8C7A6B209F737.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset'
+[2017.01.25-17.48.13:420][435]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset
+[2017.01.25-17.48.21:602][954]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.25-17.48.21:627][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.48.21:627][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-17.48.21:627][954]PIE: New page: PIE session: Level_1 (Jan 25, 2017, 7:48:21 PM)
+[2017.01.25-17.48.21:629][954]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2017.01.25-17.48.21:638][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008970s)
+[2017.01.25-17.48.21:640][954]LogAIModule: Creating AISystem for world Level_1
+[2017.01.25-17.48.21:641][954]LogPlayLevel: PIE: World Init took: (0.003130s)
+[2017.01.25-17.48.21:641][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.012587s)
+[2017.01.25-17.48.21:691][954]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.25-17.48.21:706][954]LogInit: FAudioDevice initialized.
+[2017.01.25-17.48.21:742][954]LogLoad: Game class is 'GameModeBase'
+[2017.01.25-17.48.21:746][954]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2017.01.25-18.48.21
+[2017.01.25-17.48.21:746][954]LogWorld: Bringing up level for play took: 0.001937
+[2017.01.25-17.48.21:750][954]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.557
+[2017.01.25-17.48.21:750][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.48.48:040][439]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.48.48:091][439]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.49.02:554][240]BlueprintLog: New page: Compile LevelHUD
+[2017.01.25-17.49.03:079][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/LevelHUD" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset" SILENT=true
+[2017.01.25-17.49.03:123][258]LogSavePackage: Save=34.18ms
+[2017.01.25-17.49.03:123][258]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/LevelHUD6201471B4C80F1904E3674826112EC8B.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset'
+[2017.01.25-17.49.03:127][258]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset
+[2017.01.25-17.49.05:435][432]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.25-17.49.05:459][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.49.05:459][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-17.49.05:459][432]PIE: New page: PIE session: Level_1 (Jan 25, 2017, 7:49:05 PM)
+[2017.01.25-17.49.05:460][432]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2017.01.25-17.49.05:463][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003123s)
+[2017.01.25-17.49.05:464][432]LogAIModule: Creating AISystem for world Level_1
+[2017.01.25-17.49.05:464][432]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2017.01.25-17.49.05:465][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.004487s)
+[2017.01.25-17.49.05:510][432]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.25-17.49.05:524][432]LogInit: FAudioDevice initialized.
+[2017.01.25-17.49.05:555][432]LogLoad: Game class is 'GameModeBase'
+[2017.01.25-17.49.05:558][432]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2017.01.25-18.49.05
+[2017.01.25-17.49.05:559][432]LogWorld: Bringing up level for play took: 0.001506
+[2017.01.25-17.49.05:561][432]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.368
+[2017.01.25-17.49.05:562][432]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.49.24:283][198]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.49.24:329][198]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.50.15:738][  6]BlueprintLog: New page: Compile LevelHUD
+[2017.01.25-17.50.16:263][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/LevelHUD" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset" SILENT=true
+[2017.01.25-17.50.16:306][ 24]LogSavePackage: Save=34.03ms
+[2017.01.25-17.50.16:306][ 24]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/LevelHUD58ABFE414B9CDAF82D692398BF84A158.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset'
+[2017.01.25-17.50.16:309][ 24]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset
+[2017.01.25-17.50.18:427][180]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.25-17.50.18:450][180]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.50.18:450][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-17.50.18:450][180]PIE: New page: PIE session: Level_1 (Jan 25, 2017, 7:50:18 PM)
+[2017.01.25-17.50.18:451][180]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2017.01.25-17.50.18:454][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003289s)
+[2017.01.25-17.50.18:455][180]LogAIModule: Creating AISystem for world Level_1
+[2017.01.25-17.50.18:456][180]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2017.01.25-17.50.18:456][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.004764s)
+[2017.01.25-17.50.18:501][180]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.25-17.50.18:514][180]LogInit: FAudioDevice initialized.
+[2017.01.25-17.50.18:547][180]LogLoad: Game class is 'GameModeBase'
+[2017.01.25-17.50.18:551][180]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2017.01.25-18.50.18
+[2017.01.25-17.50.18:551][180]LogWorld: Bringing up level for play took: 0.001718
+[2017.01.25-17.50.18:554][180]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.639
+[2017.01.25-17.50.18:554][180]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.50.26:082][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.50.26:129][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.50.50:047][172]BlueprintLog: New page: Compile LevelHUD
+[2017.01.25-17.50.50:522][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/LevelHUD" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset" SILENT=true
+[2017.01.25-17.50.50:565][187]LogSavePackage: Save=34.29ms
+[2017.01.25-17.50.50:565][187]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/LevelHUD834BB73A4D6F5608E5EA94A1D26C22B5.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset'
+[2017.01.25-17.50.50:568][187]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset
+[2017.01.25-17.50.52:796][351]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.25-17.50.52:818][351]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.50.52:818][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-17.50.52:818][351]PIE: New page: PIE session: Level_1 (Jan 25, 2017, 7:50:52 PM)
+[2017.01.25-17.50.52:819][351]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2017.01.25-17.50.52:823][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003105s)
+[2017.01.25-17.50.52:824][351]LogAIModule: Creating AISystem for world Level_1
+[2017.01.25-17.50.52:824][351]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2017.01.25-17.50.52:824][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.004577s)
+[2017.01.25-17.50.52:869][351]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.25-17.50.52:882][351]LogInit: FAudioDevice initialized.
+[2017.01.25-17.50.52:914][351]LogLoad: Game class is 'GameModeBase'
+[2017.01.25-17.50.52:918][351]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2017.01.25-18.50.52
+[2017.01.25-17.50.52:918][351]LogWorld: Bringing up level for play took: 0.001467
+[2017.01.25-17.50.52:921][351]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.272
+[2017.01.25-17.50.52:921][351]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.51.02:640][271]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.51.02:688][271]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.51.19:104][146]BlueprintLog: New page: Compile LevelHUD
+[2017.01.25-17.51.19:686][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/LevelHUD" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset" SILENT=true
+[2017.01.25-17.51.19:730][166]LogSavePackage: Save=35.19ms
+[2017.01.25-17.51.19:730][166]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/LevelHUD44C19B3040D21D5A1175C38E200A090F.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset'
+[2017.01.25-17.51.19:734][166]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset
+[2017.01.25-17.51.22:159][338]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.25-17.51.22:183][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.51.22:183][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-17.51.22:183][338]PIE: New page: PIE session: Level_1 (Jan 25, 2017, 7:51:22 PM)
+[2017.01.25-17.51.22:184][338]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2017.01.25-17.51.22:187][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003202s)
+[2017.01.25-17.51.22:188][338]LogAIModule: Creating AISystem for world Level_1
+[2017.01.25-17.51.22:189][338]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2017.01.25-17.51.22:189][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.004684s)
+[2017.01.25-17.51.22:235][338]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.25-17.51.22:248][338]LogInit: FAudioDevice initialized.
+[2017.01.25-17.51.22:283][338]LogLoad: Game class is 'GameModeBase'
+[2017.01.25-17.51.22:286][338]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2017.01.25-18.51.22
+[2017.01.25-17.51.22:287][338]LogWorld: Bringing up level for play took: 0.001544
+[2017.01.25-17.51.22:289][338]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 1.096
+[2017.01.25-17.51.22:289][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.51.44:940][504]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.51.44:989][504]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.57.24:742][119]BlueprintLog: New page: Compile LevelHUD
+[2017.01.25-17.57.25:372][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/LevelHUD" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset" SILENT=true
+[2017.01.25-17.57.25:423][141]LogSavePackage: Save=36.34ms
+[2017.01.25-17.57.25:423][141]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/LevelHUD46D5725F40EC90914ED05EA8C6288067.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset'
+[2017.01.25-17.57.25:433][141]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset
+[2017.01.25-17.57.30:857][503]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.01.25-17.57.31:331][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.25-17.57.32:915][707]Cmd: DELETE
+[2017.01.25-17.57.32:915][707]Cmd: ACTOR DELETE
+[2017.01.25-17.57.32:984][707]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.01.25-17.57.33:017][707]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2017.01.25-17.57.37:959][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.25-17.57.38:170][225]LogSavePackage: Save=169.57ms
+[2017.01.25-17.57.38:170][225]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Level_1D72D0807473093BA00B21FA6BA5F3EC5.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Maps/Level_1.umap'
+[2017.01.25-17.57.38:180][225]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Maps/Level_1.umap
+[2017.01.25-17.57.38:914][295]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.25-17.57.38:939][295]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.57.38:939][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-17.57.38:939][295]PIE: New page: PIE session: Level_1 (Jan 25, 2017, 7:57:38 PM)
+[2017.01.25-17.57.38:940][295]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2017.01.25-17.57.38:944][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003529s)
+[2017.01.25-17.57.38:945][295]LogAIModule: Creating AISystem for world Level_1
+[2017.01.25-17.57.38:945][295]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2017.01.25-17.57.38:945][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.005073s)
+[2017.01.25-17.57.38:994][295]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.25-17.57.39:008][295]LogInit: FAudioDevice initialized.
+[2017.01.25-17.57.39:040][295]LogLoad: Game class is 'GameModeBase'
+[2017.01.25-17.57.39:043][295]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2017.01.25-18.57.39
+[2017.01.25-17.57.39:043][295]LogWorld: Bringing up level for play took: 0.001547
+[2017.01.25-17.57.39:046][295]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 -0.147
+[2017.01.25-17.57.39:046][295]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.57.39:057][295]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:058][295]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:084][296]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:084][296]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:095][297]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:095][297]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:106][298]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:106][298]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:117][299]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:117][299]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:127][300]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:127][300]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:138][301]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:138][301]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:148][302]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:148][302]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:159][303]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:159][303]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:169][304]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:169][304]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:180][305]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:180][305]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:191][306]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:191][306]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:201][307]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:201][307]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:212][308]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:212][308]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:223][309]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:223][309]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:234][310]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:234][310]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:244][311]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:244][311]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	LevelHUD_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_34.LevelHUD_C_3
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD:01DA
+[2017.01.25-17.57.39:255][312]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:265][313]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:275][314]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:286][315]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:297][316]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:308][317]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:318][318]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:329][319]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:341][320]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:353][321]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:364][322]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:376][323]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:387][324]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:397][325]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:408][326]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:418][327]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:429][328]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:439][329]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:449][330]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:460][331]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:470][332]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:481][333]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:491][334]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:502][335]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:513][336]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:525][337]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:536][338]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:548][339]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:561][340]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:572][341]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:585][342]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.57.39:597][343]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.27:854][985]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.58.27:890][985]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.58.31:742][377]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.25-17.58.31:768][377]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.58.31:768][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-17.58.31:768][377]PIE: New page: PIE session: Level_1 (Jan 25, 2017, 7:58:31 PM)
+[2017.01.25-17.58.31:769][377]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2017.01.25-17.58.31:773][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003396s)
+[2017.01.25-17.58.31:774][377]LogAIModule: Creating AISystem for world Level_1
+[2017.01.25-17.58.31:774][377]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2017.01.25-17.58.31:774][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.004609s)
+[2017.01.25-17.58.31:820][377]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.01.25-17.58.31:834][377]LogInit: FAudioDevice initialized.
+[2017.01.25-17.58.31:864][377]LogLoad: Game class is 'GameModeBase'
+[2017.01.25-17.58.31:867][377]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2017.01.25-18.58.31
+[2017.01.25-17.58.31:868][377]LogWorld: Bringing up level for play took: 0.001479
+[2017.01.25-17.58.31:870][377]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_1 0.677
+[2017.01.25-17.58.31:871][377]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.58.31:881][377]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.31:906][378]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.31:918][379]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.31:928][380]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.31:938][381]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.31:949][382]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.31:960][383]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.31:971][384]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.31:984][385]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.31:994][386]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:005][387]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:016][388]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:027][389]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:038][390]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:048][391]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:059][392]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:070][393]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:082][394]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:093][395]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:104][396]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:114][397]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:124][398]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:135][399]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:146][400]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:156][401]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:167][402]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:177][403]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:189][404]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:200][405]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:212][406]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:224][407]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:235][408]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:245][409]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:256][410]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:267][411]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:277][412]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:287][413]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:301][414]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:315][415]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:328][416]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:341][417]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:353][418]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.32:364][419]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/HUD/LevelHUD.LevelHUD_C:Tick
+	Function /Game/HUD/LevelHUD.LevelHUD_C:ExecuteUbergraph_LevelHUD
+
+[2017.01.25-17.58.56:109][622]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-17.58.56:149][622]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2017.01.25-18.00.36:282][282]BlueprintLog: New page: Compile LevelHUD
+[2017.01.25-18.00.36:966][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/LevelHUD" FILE="G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset" SILENT=true
+[2017.01.25-18.00.37:007][312]LogSavePackage: Save=28.83ms
+[2017.01.25-18.00.37:007][312]LogSavePackage: Moving 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/LevelHUD963C13DD481A6D6F985CC28DAB6652EB.tmp' to 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset'
+[2017.01.25-18.00.37:017][312]LogSavePackage:Display: Finished SavePackage G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/HUD/LevelHUD.uasset
+[2017.01.25-18.00.42:867][643]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.25-18.00.43:439][644]Cmd: QUIT_EDITOR
+[2017.01.25-18.00.45:086][644]LogExit: Preparing to exit.
+[2017.01.25-18.00.46:793][644]LogExit: Editor shut down
+[2017.01.25-18.00.46:794][644]LogExit: Transaction tracking system shut down
+[2017.01.25-18.00.49:599][644]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.25-18.00.49:600][644]LogExit: Object subsystem successfully closed.
+[2017.01.25-18.00.49:866][644]LogD3D11RHI: Shutdown
+[2017.01.25-18.00.49:872][644]LogD3D11RHI: CleanupD3DDevice
+[2017.01.25-18.00.50:204][644]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.25-18.00.51:406][644]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.01.25-18.00.51:406][644]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFB234DBA-4F95-BCAB-6DC7-2EB8F8F166BB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=0636ed074715a6528987088242ffb35f%7C4ce4a9e487ef46408105a210f5327efb%7C332cae6d-2768-4bae-971c-d1db598faa64&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.25-18.00.51:514][644]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (246)
+[2017.01.25-18.00.51:539][644]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (245)
+[2017.01.25-18.00.51:539][644]LogModuleManager: Shutting down and abandoning module SequencerWidgets (244)
+[2017.01.25-18.00.51:539][644]LogModuleManager: Shutting down and abandoning module BlueprintGraph (243)
+[2017.01.25-18.00.51:539][644]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (242)
+[2017.01.25-18.00.51:555][644]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.01.25-18.00.51:562][644]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.01.25-18.00.51:587][644]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.01.25-18.00.51:587][644]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.01.25-18.00.51:587][644]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.01.25-18.00.51:619][644]LogDirectoryWatcher: A directory notification for 'L:/Unreal Engine 4/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.01.25-18.00.51:629][644]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.01.25-18.00.51:629][644]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.01.25-18.00.51:629][644]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.01.25-18.00.51:649][644]LogDirectoryWatcher: A directory notification for 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Collections/' was aborted.
+[2017.01.25-18.00.51:649][644]LogDirectoryWatcher: A directory notification for 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/Developers/NeN/Collections/' was aborted.
+[2017.01.25-18.00.51:649][644]LogDirectoryWatcher: A directory notification for 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Saved/Collections/' was aborted.
+[2017.01.25-18.00.51:649][644]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.01.25-18.00.51:671][644]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.01.25-18.00.51:680][644]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.01.25-18.00.51:695][644]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.01.25-18.00.51:695][644]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.01.25-18.00.51:695][644]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.01.25-18.00.51:695][644]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.01.25-18.00.51:695][644]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.01.25-18.00.51:715][644]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.01.25-18.00.51:733][644]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.01.25-18.00.51:753][644]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.01.25-18.00.51:779][644]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.01.25-18.00.51:796][644]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.01.25-18.00.51:821][644]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.01.25-18.00.51:830][644]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.01.25-18.00.51:830][644]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.01.25-18.00.51:831][644]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.01.25-18.00.51:831][644]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.01.25-18.00.51:831][644]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.01.25-18.00.51:831][644]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.01.25-18.00.51:831][644]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.01.25-18.00.51:831][644]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.01.25-18.00.51:831][644]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.01.25-18.00.51:851][644]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.01.25-18.00.51:851][644]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.01.25-18.00.51:851][644]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.01.25-18.00.51:851][644]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.01.25-18.00.51:851][644]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.01.25-18.00.51:851][644]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.01.25-18.00.51:871][644]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.01.25-18.00.51:883][644]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.01.25-18.00.51:893][644]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.01.25-18.00.51:893][644]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.01.25-18.00.51:893][644]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.01.25-18.00.51:893][644]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.01.25-18.00.52:082][644]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.01.25-18.00.52:082][644]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.01.25-18.00.52:082][644]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.01.25-18.00.52:082][644]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.01.25-18.00.52:082][644]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.01.25-18.00.52:119][644]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.01.25-18.00.52:129][644]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.01.25-18.00.52:151][644]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.01.25-18.00.52:164][644]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.01.25-18.00.52:164][644]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.01.25-18.00.52:178][644]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.01.25-18.00.52:204][644]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.01.25-18.00.52:204][644]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.01.25-18.00.52:209][644]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.01.25-18.00.52:232][644]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.01.25-18.00.52:232][644]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.01.25-18.00.52:246][644]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.01.25-18.00.52:251][644]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.01.25-18.00.52:252][644]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.01.25-18.00.52:252][644]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.01.25-18.00.52:252][644]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.01.25-18.00.52:290][644]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.01.25-18.00.52:304][644]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.01.25-18.00.52:309][644]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.01.25-18.00.52:310][644]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.01.25-18.00.52:310][644]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.01.25-18.00.52:375][644]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.01.25-18.00.52:403][644]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.01.25-18.00.52:436][644]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.01.25-18.00.52:451][644]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.01.25-18.00.52:451][644]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.01.25-18.00.52:463][644]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.01.25-18.00.52:464][644]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.01.25-18.00.52:464][644]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.01.25-18.00.52:474][644]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.01.25-18.00.52:496][644]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.01.25-18.00.52:497][644]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.01.25-18.00.52:500][644]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.01.25-18.00.52:522][644]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.01.25-18.00.52:539][644]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.01.25-18.00.52:557][644]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.01.25-18.00.52:584][644]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.01.25-18.00.52:611][644]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.01.25-18.00.52:633][644]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.01.25-18.00.52:633][644]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.01.25-18.00.52:633][644]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.01.25-18.00.52:633][644]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.01.25-18.00.52:633][644]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.01.25-18.00.52:633][644]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.01.25-18.00.52:633][644]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.01.25-18.00.52:633][644]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.01.25-18.00.52:646][644]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.01.25-18.00.52:646][644]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.01.25-18.00.52:733][644]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.01.25-18.00.52:762][644]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.01.25-18.00.52:762][644]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.01.25-18.00.52:762][644]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.01.25-18.00.52:762][644]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.01.25-18.00.52:783][644]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.01.25-18.00.52:815][644]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.01.25-18.00.52:815][644]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.01.25-18.00.52:815][644]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.01.25-18.00.52:815][644]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.01.25-18.00.52:815][644]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.01.25-18.00.52:838][644]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.01.25-18.00.52:839][644]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.01.25-18.00.52:871][644]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.01.25-18.00.52:871][644]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.01.25-18.00.52:871][644]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.01.25-18.00.52:871][644]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.01.25-18.00.52:884][644]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.01.25-18.00.52:900][644]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.01.25-18.00.52:900][644]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.01.25-18.00.52:900][644]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.01.25-18.00.52:900][644]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.01.25-18.00.52:909][644]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.01.25-18.00.52:919][644]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.01.25-18.00.52:933][644]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.01.25-18.00.52:933][644]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.01.25-18.00.52:959][644]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.01.25-18.00.52:959][644]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.01.25-18.00.52:991][644]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.01.25-18.00.53:012][644]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.01.25-18.00.53:032][644]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.01.25-18.00.53:042][644]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.01.25-18.00.53:042][644]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.01.25-18.00.53:068][644]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.01.25-18.00.53:068][644]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.01.25-18.00.53:068][644]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.01.25-18.00.53:093][644]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.01.25-18.00.53:094][644]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.01.25-18.00.53:094][644]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.01.25-18.00.53:116][644]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.01.25-18.00.53:118][644]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.01.25-18.00.53:134][644]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.01.25-18.00.53:235][644]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.01.25-18.00.53:358][644]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.01.25-18.00.53:358][644]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.01.25-18.00.53:379][644]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.01.25-18.00.53:389][644]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.01.25-18.00.53:418][644]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.01.25-18.00.53:418][644]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.01.25-18.00.53:434][644]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.01.25-18.00.53:434][644]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.01.25-18.00.53:434][644]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.01.25-18.00.53:434][644]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.01.25-18.00.53:474][644]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.01.25-18.00.53:492][644]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.01.25-18.00.53:511][644]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.01.25-18.00.53:511][644]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.01.25-18.00.53:511][644]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.01.25-18.00.53:511][644]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.01.25-18.00.53:526][644]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.01.25-18.00.53:526][644]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.01.25-18.00.53:526][644]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.01.25-18.00.53:551][644]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.01.25-18.00.53:551][644]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.01.25-18.00.53:619][644]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.01.25-18.00.53:619][644]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.01.25-18.00.53:619][644]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.01.25-18.00.53:619][644]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.01.25-18.00.53:619][644]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.01.25-18.00.53:619][644]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.01.25-18.00.53:619][644]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.25-18.00.53:620][644]LogDirectoryWatcher: A directory notification for 'G:/Mis documentos/GitHub/PGV/TheLastShelter/Content/' was aborted.
+[2017.01.25-18.00.53:620][644]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.25-18.00.53:624][644]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.01.25-18.00.53:897][644]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.01.25-18.00.53:897][644]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.01.25-18.00.53:911][644]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.01.25-18.00.53:916][644]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.01.25-18.00.53:936][644]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.01.25-18.00.53:952][644]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.01.25-18.00.53:978][644]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.01.25-18.00.54:003][644]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.01.25-18.00.54:125][644]LogDerivedDataCache: Shutdown
+[2017.01.25-18.00.54:125][644]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.01.25-18.00.54:144][644]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.01.25-18.00.54:157][644]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.01.25-18.00.54:181][644]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.01.25-18.00.54:204][644]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.01.25-18.00.54:204][644]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.01.25-18.00.54:225][644]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.01.25-18.00.54:237][644]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.01.25-18.00.54:262][644]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.01.25-18.00.54:262][644]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.01.25-18.00.54:262][644]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.01.25-18.00.54:262][644]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.01.25-18.00.54:276][644]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.01.25-18.00.54:294][644]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.01.25-18.00.54:294][644]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.01.25-18.00.54:294][644]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.01.25-18.00.54:315][644]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.01.25-18.00.54:334][644]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.01.25-18.00.54:359][644]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.01.25-18.00.54:359][644]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.01.25-18.00.54:359][644]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.01.25-18.00.54:359][644]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.01.25-18.00.54:359][644]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.01.25-18.00.54:359][644]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.01.25-18.00.54:359][644]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.01.25-18.00.54:359][644]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.01.25-18.00.54:359][644]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.01.25-18.00.54:359][644]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.01.25-18.00.54:359][644]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.01.25-18.00.54:359][644]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.01.25-18.00.54:359][644]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.01.25-18.00.54:359][644]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.01.25-18.00.54:373][644]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.01.25-18.00.54:377][644]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.01.25-18.00.54:386][644]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.01.25-18.00.54:386][644]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.01.25-18.00.54:386][644]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.01.25-18.00.54:386][644]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.01.25-18.00.54:386][644]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.25-18.00.54:386][644]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.25-18.00.54:386][644]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.25-18.00.54:386][644]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.25-18.00.54:403][644]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.25-18.00.54:434][644]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.01.25-18.00.54:434][644]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.01.25-18.00.54:434][644]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.01.25-18.00.54:441][644]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.25-18.00.54:470][644]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.01.25-18.00.54:500][644]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.25-18.00.54:500][644]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.25-18.00.54:515][644]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.25-18.00.54:563][644]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.25-18.00.54:563][644]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.25-18.00.54:563][644]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.25-18.00.54:588][644]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.25-18.00.54:606][644]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.25-18.00.54:606][644]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.25-18.00.54:609][644]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.25-18.00.54:622][644]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.25-18.00.54:622][644]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.25-18.00.54:622][644]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.25-18.00.54:648][644]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.25-18.00.54:664][644]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.25-18.00.54:680][644]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.25-18.00.54:721][644]LogExit: Exiting.
+[2017.01.25-18.00.54:753][644]Log file closed, 01/25/17 19:00:54
